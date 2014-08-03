@@ -6,7 +6,7 @@ AUTHOR = u'Jon Robbins'
 SITENAME = u'jrobb.org'
 SITEURL = ''
 
-THEME = '/home/jonathan/www/jrobb.org-pelican/pelican-themes/bootstrap2'
+THEME = '/home/jonathan/www/pelican-themes/bootstrap2'
 #THEME = '/home/jonathan/www/jrobb.org-pelican/pelican-themes/foundation-default-colours'
 
 PATH = 'content'
