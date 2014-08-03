@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Jon Robbins'
 SITENAME = u'jrobb.org'
-SITEURL = ''
+SITEURL = 'http://jrobb.org/'
 
 THEME = '../pelican-themes/bootstrap2'
 #THEME = '../pelican-themes/foundation-default-colours'
