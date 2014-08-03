@@ -1,0 +1,39 @@
+Title: I got a VPS
+Date: 2013-03-12 07
+Modified: 2013-03-12 07
+Category: archive
+Tags: vps, host, octopress
+Slug: i-got-a-vps
+Authors: Jon Robbins
+Summary: I've been using [NearlyFreeSpeech.net](http://nearlyfreespeech.net) for nearly 3 years now for my webhosting needs.
+
+
+I've been using [NearlyFreeSpeech.net](http://nearlyfreespeech.net) for nearly 3 years now for my webhosting needs.
+This has worked out very well--the hosting is reasonably priced (cheap), and is based on what is actually  used.  In my case this is very little, and amounted to a few bucks a month.
+The best part for me, anyway, is that the domain pricing is very good -- I think I'm paying around $9 a year for my TLDs.
+
+And then...I started playing [Minecraft](https://www.minecraft.net/) again.  I had a spare computer in my house (mentioned in my last post), and as it wasn't going anywhere I set it up as a minecraft server.
+This worked fairly well, but then I wanted to start loading it up with stuff, naturally, and my uplink speeds from the evil TWC are not great  (On a side note, TWC says their customers have no interest in a cheaper faster service more akin to Google Fiber 0o ).
+
+And *then*, a friend told me about [this deal](http://slickdeals.net/f/5887804-NEW-ChicagoVPS-2048MB-RAM-50GB-Disk-2TB-Bandwidth-2x-IP-address-40-year-4-Location-Choices) on slickdeals.net.
+At $40/yr, that was very tempting.  I calculated out my usage at NearlyFreeSpeech, and it was around $35/yr for the hosting by itself.  So I decided to go for it and try it out.
+<!-- more -->
+First things first, I set it up properly with SSH keys and such.  Then installed and started minecraft.  
+I was a little worried about the RAM "only" being 2GB, but it worked fine with 1GB allocated.
+While I was at it, I set up a python map overviewer ("Minecraft Overviewer"). This generates a google maps powered map of the world, so I set up an nginx virtual host to point to that.
+
+Then I installed [StatusNet](http://status.net), so I can run my own node to connect to [identi.ca](http://identi.ca) and other federated sites.
+I had run my own instance before off of a beaglebone in my house, and it was very very slow.  I think it would have been faster with a little more CPU power, but still the uplink speed limitation may have been a problem.  Both solved with the VPS!
+
+And lastly, I moved all of my blog items over.  Well, not quite all -- I still have to convert some of my old posts into the jekyll/octopress format that I still have not done yet.
+
+So far, so good. It's only been a few days and nothing has crashed --unlike here where the power blinked out yesterday.
+I also realized that at [ChicagoVPS](http://ChicagoVPS.net) they have free DNS hosting, so I moved the DNS from NFS over there also.  So now the $6 I have left in my NSF account will host the DNS for my remaining domains for 5 years -- and I'll only need to add to it to renew the domain names.  Pretty cool.
+
+Next, I am looking into [Friendica](http://friendica.com/) and of course [Pump.io](http://pump.io). 
+Maybe mumble.  I don't know what else -- anything that I find usable.
+
+I can keep adding things...up until I crash the thing.  
+But so far the RAM usage has been pretty low around 1.5GB with minecraft running. There's only 50GB of disk space too, so it's not huge or anything, but it should be fine for these types of things.
+
+PS. I'm loving Octopress.
