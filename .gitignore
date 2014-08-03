@@ -1,2 +1,7 @@
 *.pyc
 output/*
+bin/*
+include/*
+lib/*
+local/*
+
