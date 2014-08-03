@@ -6,8 +6,8 @@ AUTHOR = u'Jon Robbins'
 SITENAME = u'jrobb.org'
 SITEURL = ''
 
-THEME = '/home/jonathan/www/pelican-themes/bootstrap2'
-#THEME = '/home/jonathan/www/jrobb.org-pelican/pelican-themes/foundation-default-colours'
+THEME = '../pelican-themes/bootstrap2'
+#THEME = '../pelican-themes/foundation-default-colours'
 
 PATH = 'content'
 
