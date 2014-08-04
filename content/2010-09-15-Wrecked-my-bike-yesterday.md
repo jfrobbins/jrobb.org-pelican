@@ -1,5 +1,6 @@
 Title: Wrecked my bike yesterday
 Date: 2010-09-15
+Modified: 2010-09-15
 Category: archive
 Tags: jbs, life, accident, motorcycle <br>
 Slug: 2010-09-15-wrecked-my-bike-yesterday

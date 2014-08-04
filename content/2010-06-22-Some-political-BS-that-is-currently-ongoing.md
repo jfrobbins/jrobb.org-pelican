@@ -1,5 +1,6 @@
 Title: Some political BS that is currently ongoing
 Date: 2010-06-22
+Modified: 2010-06-22
 Category: archive
 Tags: jbs, politico
 Slug: 2010-06-22-some-political-bs-that-is-currently-ongoing

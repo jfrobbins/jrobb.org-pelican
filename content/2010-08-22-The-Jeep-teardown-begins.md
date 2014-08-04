@@ -1,5 +1,6 @@
 Title: The Jeep teardown begins
 Date: 2010-08-22
+Modified: 2010-08-22
 Category: archive
 Tags: jbs, jeep, jeep, jeep-stuff, upgrades <br>
 Slug: 2010-08-22-the-jeep-teardown-begins

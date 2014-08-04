@@ -1,5 +1,6 @@
 Title: WP posts successfully copied and first post of the new year
 Date: 2011-01-02
+Modified: 2011-01-02
 Category: archive
 Tags: jbs, site, site, newyear
 Slug: 2011-01-02-wp-posts-successfully-copied-and-first-post-of-the-new-year

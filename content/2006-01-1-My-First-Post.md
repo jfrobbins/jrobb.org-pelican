@@ -1,5 +1,6 @@
 Title: My First Post
 Date: 2006-01-1
+Modified: 2006-01-1
 Category: archive
 Tags: jbs, site
 Slug: 2006-01-1-my-first-post

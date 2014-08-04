@@ -1,5 +1,6 @@
 Title: People are not smart enough to make their own decisions...
 Date: 2009-06-12
+Modified: 2009-06-12
 Category: archive
 Tags: jbs, news
 Slug: 2009-06-12-people-are-not-smart-enough-to-make-their-own-decisions...

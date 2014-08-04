@@ -1,5 +1,6 @@
 Title: Gitting started
 Date: 2011-01-14
+Modified: 2011-01-14
 Category: archive
 Tags: jbs, Git
 Slug: 2011-01-14-gitting-started

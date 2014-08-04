@@ -1,5 +1,6 @@
 Title: Tethering on the Moto Droid with EasyTether
 Date: 2010-07-14
+Modified: 2010-07-14
 Category: archive
 Tags: jbs, linux, android, droid, easytether, tether <br>
 Slug: 2010-07-14-tethering-on-the-moto-droid-with-easytether

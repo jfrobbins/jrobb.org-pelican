@@ -1,5 +1,6 @@
 Title: My Irssi setup
 Date: 2013-07-20
+Modified: 2013-07-20
 Category: archive
 Tags: 
 Slug: 2013-07-20-my-irssi-setup

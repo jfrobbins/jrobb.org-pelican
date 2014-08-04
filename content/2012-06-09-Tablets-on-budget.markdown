@@ -1,5 +1,6 @@
 Title: Tablets (on a budget)
 Date: 2012-06-09
+Modified: 2012-06-09
 Category: archive
 Tags: tablet, budget
 Slug: 2012-06-09-tablets-(on-a-budget)

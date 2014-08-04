@@ -1,5 +1,6 @@
 Title: bike jeep image scripting
 Date: 2010-08-13
+Modified: 2010-08-13
 Category: archive
 Tags: jbs, jeep, bash, bike, jeep, linux, motorcycle, outlaws <br>
 Slug: 2010-08-13-bike-jeep-image-scripting

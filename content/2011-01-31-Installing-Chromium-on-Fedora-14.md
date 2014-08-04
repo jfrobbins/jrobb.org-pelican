@@ -1,5 +1,6 @@
 Title: Installing Chromium on Fedora 14
 Date: 2011-01-31
+Modified: 2011-01-31
 Category: archive
 Tags: jbs, filename, chromium, chrome, firefox, fedora
 Slug: 2011-01-31-installing-chromium-on-fedora-14

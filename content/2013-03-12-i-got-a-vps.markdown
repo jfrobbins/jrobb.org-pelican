@@ -1,5 +1,6 @@
 Title: I got a VPS
 Date: 2013-03-12
+Modified: 2013-03-12
 Category: archive
 Tags: vps, host, octopress
 Slug: 2013-03-12-i-got-a-vps
