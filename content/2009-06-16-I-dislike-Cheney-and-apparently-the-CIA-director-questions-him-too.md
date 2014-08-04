@@ -1,11 +1,9 @@
 Title: I dislike Cheney and apparently the CIA director questions him too
 Date: 2009-06-16-11
-Modified: 2009-06-16-11
 Category: archive
 Tags: jbs, politico
-Slug: i-dislike-cheney-and-apparently-the-cia-director-questions-him-too
+Slug: 2009-06-16-i-dislike-cheney-and-apparently-the-cia-director-questions-him-too
 Authors: Jon Robbins
-Summary: <blockquote>CIA Director Leon Panetta's remarks on former Vice President Dick Cheney made in a nearly 7,600-word interview with The New Yorker generated some media attention last night and this morning. Calling them "tough words," <u>ABC World News</u> reported briefly that Panetta said of Cheney, who "has repeatedly, of course, criticized the Obama Administration's approach to terrorism," that "it's almost as if he is wishing that this country would be attacked again, in order to make his point.'" Panetta, the [<u>New Yorker</u>](http://www.newyorker.com/reporting/2009/06/22/090622fa_fact_mayer) (6/22, Mayer) reports, was responding to a speech the former vice president made at the American Enterprise Institute, where he accused the Administration of making "the American people less safe" by banning brutal CIA interrogations of terrorism suspects that had been sanctioned by the Bush Administration.
 
 
 <blockquote>CIA Director Leon Panetta's remarks on former Vice President Dick Cheney made in a nearly 7,600-word interview with The New Yorker generated some media attention last night and this morning. Calling them "tough words," <u>ABC World News</u> reported briefly that Panetta said of Cheney, who "has repeatedly, of course, criticized the Obama Administration's approach to terrorism," that "it's almost as if he is wishing that this country would be attacked again, in order to make his point.'" Panetta, the [<u>New Yorker</u>](http://www.newyorker.com/reporting/2009/06/22/090622fa_fact_mayer) (6/22, Mayer) reports, was responding to a speech the former vice president made at the American Enterprise Institute, where he accused the Administration of making "the American people less safe" by banning brutal CIA interrogations of terrorism suspects that had been sanctioned by the Bush Administration.

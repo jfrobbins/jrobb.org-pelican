@@ -1,11 +1,9 @@
 Title: Congressman Ron Paul on Healthcare video
 Date: 2009-06-19-11
-Modified: 2009-06-19-11
 Category: archive
 Tags: jbs, news
-Slug: congressman-ron-paul-on-healthcare-video
+Slug: 2009-06-19-congressman-ron-paul-on-healthcare-video
 Authors: Jon Robbins
-Summary: [youtube=http://www.youtube.com/watch?v=foXQbmZxWYY&amp;hl=en&amp;fs=1&amp;]
 
 
 [youtube=http://www.youtube.com/watch?v=foXQbmZxWYY&amp;hl=en&amp;fs=1&amp;]

@@ -1,11 +1,9 @@
 Title: Version Control synopsis git vs fossil
 Date: 2011-02-13
-Modified: 2011-02-13
 Category: archive
 Tags: jbs, git, fossil, scm, version-control, work, code
-Slug: version-control-synopsis-git-vs-fossil
+Slug: 2011-02-13-version-control-synopsis-git-vs-fossil
 Authors: Jon Robbins
-Summary: I've mentioned recently that I [started using Git](?article=161) for my version control needs.  
 
 
 I've mentioned recently that I [started using Git](?article=161) for my version control needs.  

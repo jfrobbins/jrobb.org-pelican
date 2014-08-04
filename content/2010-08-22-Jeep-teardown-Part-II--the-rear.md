@@ -1,11 +1,9 @@
 Title: Jeep teardown Part II  the rear
 Date: 2010-08-22-21
-Modified: 2010-08-22-21
 Category: archive
 Tags: jbs, jeep, jeep, suspension <br>
-Slug: jeep-teardown-part-ii--the-rear
+Slug: 2010-08-22-jeep-teardown-part-ii--the-rear
 Authors: Jon Robbins
-Summary: Today I had planned to do the task of dropping the rear suspension, which <em>should</em> have been pretty easy compared to the front.  Turned out, it was not destined to be that way.
 
 
 Today I had planned to do the task of dropping the rear suspension, which <em>should</em> have been pretty easy compared to the front.  Turned out, it was not destined to be that way.

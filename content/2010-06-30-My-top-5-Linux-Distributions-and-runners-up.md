@@ -1,11 +1,9 @@
 Title: My top 5 Linux Distributions and runners up
 Date: 2010-06-30-21
-Modified: 2010-06-30-21
 Category: archive
 Tags: jbs, linux, distro, distrohop, foss, linux, server, top-5 <br>
-Slug: my-top-5-linux-distributions-and-runners-up
+Slug: 2010-06-30-my-top-5-linux-distributions-and-runners-up
 Authors: Jon Robbins
-Summary: I've been running [ArchLinux](http://archlinux.org" target="_blank) on my desktop for a couple of years now, but these days I am getting on that computer less and less.  Little enough that I worry that my infrequency of system updates may cause some breakage.  To-date, I have not had any problems, but it could happen.
 
 
 I've been running [ArchLinux](http://archlinux.org" target="_blank) on my desktop for a couple of years now, but these days I am getting on that computer less and less.  Little enough that I worry that my infrequency of system updates may cause some breakage.  To-date, I have not had any problems, but it could happen.

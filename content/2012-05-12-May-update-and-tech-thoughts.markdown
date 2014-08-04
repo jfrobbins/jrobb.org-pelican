@@ -1,11 +1,9 @@
 Title: May update and some tech thoughts
 Date: 2012-05-12 21
-Modified: 2012-05-12 21
 Category: archive
 Tags: family, gong
-Slug: may-update-and-some-tech-thoughts
+Slug: 2012-05-12-may-update-and-some-tech-thoughts
 Authors: Jon Robbins
-Summary: I'm not too great at the whole blogging thing. I think once upon a time it served a place and purpose, but these days my thoughts are so scattered and inconsistent they are more aptly captured by microblogging/social network type updates. Though when I get busy I don't think about doing that, either.
 
 
 

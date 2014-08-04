@@ -1,11 +1,9 @@
 Title: bike jeep image scripting
 Date: 2010-08-13-06
-Modified: 2010-08-13-06
 Category: archive
 Tags: jbs, jeep, bash, bike, jeep, linux, motorcycle, outlaws <br>
-Slug: bike-jeep-image-scripting
+Slug: 2010-08-13-bike-jeep-image-scripting
 Authors: Jon Robbins
-Summary: I've put my bike up for sale...the ad/info/pictures are here:  [jrob.co.cc/forsale/2005sv650/](http://jrob.co.cc/forsale/2005sv650/" target="_blank).  Ideally this will sell so I can use the funds to fix my jeep in a more timely manner.  Although I did have a pretty sweet deal worked out for a Dana 60 front and Dana 70u rear, it didn't really appear that would work out--the front was PSD, and I need DSD (without significantly more work/money).  So, it looks like I am going to be going with a Dana 44 front / Ford 9" rear as long as we can work something out with pricing.
 
 
 I've put my bike up for sale...the ad/info/pictures are here:  [jrob.co.cc/forsale/2005sv650/](http://jrob.co.cc/forsale/2005sv650/" target="_blank).  Ideally this will sell so I can use the funds to fix my jeep in a more timely manner.  Although I did have a pretty sweet deal worked out for a Dana 60 front and Dana 70u rear, it didn't really appear that would work out--the front was PSD, and I need DSD (without significantly more work/money).  So, it looks like I am going to be going with a Dana 44 front / Ford 9" rear as long as we can work something out with pricing.

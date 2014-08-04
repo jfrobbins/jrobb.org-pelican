@@ -1,11 +1,9 @@
 Title: Since July
 Date: 2012-09-15 21
-Modified: 2012-09-15 21
 Category: archive
 Tags: statusnet, beablebone
-Slug: since-july
+Slug: 2012-09-15-since-july
 Authors: Jon Robbins
-Summary: I just realized that I haven't posted anything on here in a few months.  Time really flies by too quickly.
 
 
 I just realized that I haven't posted anything on here in a few months.  Time really flies by too quickly.

@@ -1,11 +1,9 @@
 Title: Almost Christmas
 Date: 2012-12-22 21
-Modified: 2012-12-22 21
 Category: archive
 Tags: christmas, teotwawki
-Slug: almost-christmas
+Slug: 2012-12-22-almost-christmas
 Authors: Jon Robbins
-Summary: Apparently we survived the supposed [end of the world](https://en.wikipedia.org/wiki/2012_phenomenon) with little ado.  Life goes on, and all of the crazy along with it.
 
 
 Apparently we survived the supposed [end of the world](https://en.wikipedia.org/wiki/2012_phenomenon) with little ado.  Life goes on, and all of the crazy along with it.

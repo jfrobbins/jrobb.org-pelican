@@ -1,11 +1,9 @@
 Title: error page
 Date: 2010-07-20-21
-Modified: 2010-07-20-21
 Category: archive
 Tags: jbs
-Slug: error-page
+Slug: 2010-07-20-error-page
 Authors: Jon Robbins
-Summary: If you see this page, then whatever you are trying to access is not currently available.  You can try to find it here, or by using the search on the left hand site, or just [drop me a line](http://factorq.net/contact/" target="_self).
 
 
 If you see this page, then whatever you are trying to access is not currently available.  You can try to find it here, or by using the search on the left hand site, or just [drop me a line](http://factorq.net/contact/" target="_self).

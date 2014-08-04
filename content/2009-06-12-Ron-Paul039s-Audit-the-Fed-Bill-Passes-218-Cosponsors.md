@@ -1,11 +1,9 @@
 Title: Ron Paul039s Audit the Fed Bill Passes 218 Cosponsors
 Date: 2009-06-12-00
-Modified: 2009-06-12-00
 Category: archive
 Tags: jbs, 039s, politico
-Slug: ron-paul039s-audit-the-fed-bill-passes-218-cosponsors
+Slug: 2009-06-12-ron-paul039s-audit-the-fed-bill-passes-218-cosponsors
 Authors: Jon Robbins
-Summary: <span class="fullpost">
 
 
 <span class="fullpost">

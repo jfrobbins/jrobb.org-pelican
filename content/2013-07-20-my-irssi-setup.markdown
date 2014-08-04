@@ -1,11 +1,9 @@
 Title: My Irssi setup
 Date: 2013-07-20 16
-Modified: 2013-07-20 16
 Category: archive
 Tags: 
-Slug: my-irssi-setup
+Slug: 2013-07-20-my-irssi-setup
 Authors: Jon Robbins
-Summary: I've never been much of a chat person, even IRC.  Typically I would just pop in when I'm having problems.
 
 
 I've never been much of a chat person, even IRC.  Typically I would just pop in when I'm having problems.

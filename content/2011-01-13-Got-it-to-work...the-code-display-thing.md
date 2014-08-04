@@ -1,11 +1,9 @@
 Title: Got it to work...the code display thing
 Date: 2011-01-13
-Modified: 2011-01-13
 Category: archive
 Tags: jbs, site, blog, code, captcha
-Slug: got-it-to-work...the-code-display-thing
+Slug: 2011-01-13-got-it-to-work...the-code-display-thing
 Authors: Jon Robbins
-Summary: So after doing a little work, I got the code tags to work in this blog software. Changes and etc can be found on the site:  [jbs.jrobb.org](http://jbs.jrobb.org).
 
 
 So after doing a little work, I got the code tags to work in this blog software. Changes and etc can be found on the site:  [jbs.jrobb.org](http://jbs.jrobb.org).

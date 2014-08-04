@@ -1,11 +1,9 @@
 Title: Hosting some more services
 Date: 2014-04-05 12
-Modified: 2014-04-05 12
 Category: archive
 Tags: hosting,software,owncloud,mediagoblin,pumpio,xmpp
-Slug: hosting-some-more-services
+Slug: 2014-04-05-hosting-some-more-services
 Authors: Jon Robbins
-Summary: I have had a [vps](/2013/03/12/i-got-a-vps/) for some time now, and I use it for hosting my [pump.io](http://pump.io) node and website mainly.
 
 
 I have had a [vps](/2013/03/12/i-got-a-vps/) for some time now, and I use it for hosting my [pump.io](http://pump.io) node and website mainly.

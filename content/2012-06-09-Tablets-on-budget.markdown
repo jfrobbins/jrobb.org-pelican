@@ -1,11 +1,9 @@
 Title: Tablets (on a budget)
 Date: 2012-06-09 21
-Modified: 2012-06-09 21
 Category: archive
 Tags: tablet, budget
-Slug: tablets-(on-a-budget)
+Slug: 2012-06-09-tablets-(on-a-budget)
 Authors: Jon Robbins
-Summary: I've recently gotten a reborn love for my tablet, and I am actually thinking of getting a couple of cheaper models for my kids (so they will stop borrowing mine!).
 
 
 I've recently gotten a reborn love for my tablet, and I am actually thinking of getting a couple of cheaper models for my kids (so they will stop borrowing mine!).

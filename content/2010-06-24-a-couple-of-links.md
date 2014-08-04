@@ -1,11 +1,9 @@
 Title: a couple of links
 Date: 2010-06-24-06
-Modified: 2010-06-24-06
 Category: archive
 Tags: jbs, tech
-Slug: a-couple-of-links
+Slug: 2010-06-24-a-couple-of-links
 Authors: Jon Robbins
-Summary: [Ubuntu One Review: is it ready for your data?](http://www.raiden.net/articles/review_is_ubuntu_one_ready_for_your_data_/" target="_blank)
 
 
 [Ubuntu One Review: is it ready for your data?](http://www.raiden.net/articles/review_is_ubuntu_one_ready_for_your_data_/" target="_blank)

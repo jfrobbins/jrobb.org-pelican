@@ -1,11 +1,9 @@
 Title: Some political BS that is currently ongoing
 Date: 2010-06-22-15
-Modified: 2010-06-22-15
 Category: archive
 Tags: jbs, politico
-Slug: some-political-bs-that-is-currently-ongoing
+Slug: 2010-06-22-some-political-bs-that-is-currently-ongoing
 Authors: Jon Robbins
-Summary: A letter from the Campaign for Liberty about preserving our freedom of speech:  [Stop the DISCLOSE Act!](http://www.campaignforliberty.com/blog.php?view=36255" target="_blank)
 
 
 A letter from the Campaign for Liberty about preserving our freedom of speech:  [Stop the DISCLOSE Act!](http://www.campaignforliberty.com/blog.php?view=36255" target="_blank)

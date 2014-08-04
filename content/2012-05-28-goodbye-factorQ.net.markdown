@@ -1,11 +1,9 @@
 Title: goodbye, factorQ.net
 Date: 2012-05-28 21
-Modified: 2012-05-28 21
 Category: archive
 Tags: factorq
-Slug: goodbye,-factorq.net
+Slug: 2012-05-28-goodbye,-factorq.net
 Authors: Jon Robbins
-Summary: I have decided that I am not going to renew the factorq.net domain (again). I have not really used it recently, and truth be told, I prefer my jrobb.org domain. I have too many domains currently as it is.
 
 
 

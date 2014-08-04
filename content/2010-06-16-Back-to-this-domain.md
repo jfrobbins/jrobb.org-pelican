@@ -1,11 +1,9 @@
 Title: Back to this domain
 Date: 2010-06-16-05
-Modified: 2010-06-16-05
 Category: archive
 Tags: jbs, site
-Slug: back-to-this-domain
+Slug: 2010-06-16-back-to-this-domain
 Authors: Jon Robbins
-Summary: so the free server kept crashing due to "upgrades" which will make the service "better"--so far it has only crashed more often.
 
 
 so the free server kept crashing due to "upgrades" which will make the service "better"--so far it has only crashed more often.

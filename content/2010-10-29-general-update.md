@@ -1,11 +1,9 @@
 Title: general update
 Date: 2010-10-29-09
-Modified: 2010-10-29-09
 Category: archive
 Tags: jbs, jeep
-Slug: general-update
+Slug: 2010-10-29-general-update
 Authors: Jon Robbins
-Summary: I haven't really been updating as I would like to.  I've been kind of kicking around the idea of moving away from wordpress, and converting all of my existing posts to html so I can import them into my hl-- blog.  Then I will have more control of the domain and all of that. Besides, although wordpress is really feature rich and awesome...I think it is kind of bloated.  But it is also really easy.
 
 
 I haven't really been updating as I would like to.  I've been kind of kicking around the idea of moving away from wordpress, and converting all of my existing posts to html so I can import them into my hl-- blog.  Then I will have more control of the domain and all of that. Besides, although wordpress is really feature rich and awesome...I think it is kind of bloated.  But it is also really easy.

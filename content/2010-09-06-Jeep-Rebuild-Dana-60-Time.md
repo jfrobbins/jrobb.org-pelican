@@ -1,11 +1,9 @@
 Title: Jeep Rebuild Dana 60 Time
 Date: 2010-09-06-08
-Modified: 2010-09-06-08
 Category: archive
 Tags: jbs, jeep, d60, jeep, yj <br>
-Slug: jeep-rebuild-dana-60-time
+Slug: 2010-09-06-jeep-rebuild-dana-60-time
 Authors: Jon Robbins
-Summary: I picked up a front Dana 60 axle the other day-- it is from a 1979 F250.  This thing is massive--my internet searchage results detail that it weights in the neighborhood of 500lbs!  I have a lot to do before I can actually use it, including but not limited to:
 
 
 I picked up a front Dana 60 axle the other day-- it is from a 1979 F250.  This thing is massive--my internet searchage results detail that it weights in the neighborhood of 500lbs!  I have a lot to do before I can actually use it, including but not limited to:

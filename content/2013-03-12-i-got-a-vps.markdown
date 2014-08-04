@@ -1,11 +1,9 @@
 Title: I got a VPS
 Date: 2013-03-12 07
-Modified: 2013-03-12 07
 Category: archive
 Tags: vps, host, octopress
-Slug: i-got-a-vps
+Slug: 2013-03-12-i-got-a-vps
 Authors: Jon Robbins
-Summary: I've been using [NearlyFreeSpeech.net](http://nearlyfreespeech.net) for nearly 3 years now for my webhosting needs.
 
 
 I've been using [NearlyFreeSpeech.net](http://nearlyfreespeech.net) for nearly 3 years now for my webhosting needs.

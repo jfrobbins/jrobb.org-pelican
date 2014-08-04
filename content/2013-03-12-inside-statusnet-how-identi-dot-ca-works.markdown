@@ -1,11 +1,9 @@
 Title: Inside StatusNet
 Date: 2013-03-12 23
-Modified: 2013-03-12 23
 Category: archive
 Tags: 
-Slug: inside-statusnet
+Slug: 2013-03-12-inside-statusnet
 Authors: Jon Robbins
-Summary: I found this interesting, even though this is kind of an old video, by [Evan Prodromou](https://identi.ca/evan) from fosdem back in 2010.
 
 
 I found this interesting, even though this is kind of an old video, by [Evan Prodromou](https://identi.ca/evan) from fosdem back in 2010.

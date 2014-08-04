@@ -1,11 +1,9 @@
 Title: WP posts successfully copied and first post of the new year
 Date: 2011-01-02
-Modified: 2011-01-02
 Category: archive
 Tags: jbs, site, site, newyear
-Slug: wp-posts-successfully-copied-and-first-post-of-the-new-year
+Slug: 2011-01-02-wp-posts-successfully-copied-and-first-post-of-the-new-year
 Authors: Jon Robbins
-Summary: So, I wrote a quick script to parse through the Wordpress XML dump file and extract all of the posts into an hlscript/hl-- HTML type format.  This 
 
 
 So, I wrote a quick script to parse through the Wordpress XML dump file and extract all of the posts into an hlscript/hl-- HTML type format.  This 

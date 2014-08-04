@@ -1,11 +1,9 @@
 Title: New server
 Date: 2010-03-04-22
-Modified: 2010-03-04-22
 Category: archive
 Tags: jbs, site
-Slug: new-server
+Slug: 2010-03-04-new-server
 Authors: Jon Robbins
-Summary: So I think I am moving off of the wordpress domain and onto a new (well...old) server.
 
 
 So I think I am moving off of the wordpress domain and onto a new (well...old) server.

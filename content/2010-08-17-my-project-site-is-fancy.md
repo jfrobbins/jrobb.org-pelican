@@ -1,11 +1,9 @@
 Title: my project site is fancy
 Date: 2010-08-17-21
-Modified: 2010-08-17-21
 Category: archive
 Tags: jbs, code, blog, development, lightweight, software <br>
-Slug: my-project-site-is-fancy
+Slug: 2010-08-17-my-project-site-is-fancy
 Authors: Jon Robbins
-Summary: much more so than this wordpress stuff....
 
 
 much more so than this wordpress stuff....

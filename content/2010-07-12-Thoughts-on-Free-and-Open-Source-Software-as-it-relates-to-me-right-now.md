@@ -1,11 +1,9 @@
 Title: Thoughts on Free and Open Source Software as it relates to me right now
 Date: 2010-07-12-06
-Modified: 2010-07-12-06
 Category: archive
 Tags: jbs, code
-Slug: thoughts-on-free-and-open-source-software-as-it-relates-to-me-right-now
+Slug: 2010-07-12-thoughts-on-free-and-open-source-software-as-it-relates-to-me-right-now
 Authors: Jon Robbins
-Summary: Free/Libre and Open Source Software (FOSS, or FLOSS, or F/LOSS) should be "liberally <a title="Software licence" href="/wiki/Software_licence">licensed</a> to grant the right of users to use, study, change, and improve its design through the availability of its [source code](http://en.wikipedia.org/wiki/Source_code" target="_blank)"  ([Wikipedia](http://en.wikipedia.org/wiki/Free_and_open_source_software)).  [Here](http://linuxoutlaws.com/explanation/foss" target="_blank) is another description from the Linux Outlaws page.
 
 
 Free/Libre and Open Source Software (FOSS, or FLOSS, or F/LOSS) should be "liberally <a title="Software licence" href="/wiki/Software_licence">licensed</a> to grant the right of users to use, study, change, and improve its design through the availability of its [source code](http://en.wikipedia.org/wiki/Source_code" target="_blank)"  ([Wikipedia](http://en.wikipedia.org/wiki/Free_and_open_source_software)).  [Here](http://linuxoutlaws.com/explanation/foss" target="_blank) is another description from the Linux Outlaws page.

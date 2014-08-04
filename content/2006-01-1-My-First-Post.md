@@ -1,11 +1,9 @@
 Title: My First Post
 Date: 2006-01-1
-Modified: 2006-01-1
 Category: archive
 Tags: jbs, site
-Slug: my-first-post
+Slug: 2006-01-1-my-first-post
 Authors: Jon Robbins
-Summary: This is not truly a first post here, I am actually editing this on January 9, 2011.  
 
 
 This is not truly a first post here, I am actually editing this on January 9, 2011.  

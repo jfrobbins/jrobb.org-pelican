@@ -1,11 +1,9 @@
 Title: Project or Masters
 Date: 2010-07-03-06
-Modified: 2010-07-03-06
 Category: archive
 Tags: jbs, code, foss, identica, linux <br>
-Slug: project-or-masters
+Slug: 2010-07-03-project-or-masters
 Authors: Jon Robbins
-Summary: I had been planning to back to school to get my masters degree in Computer Science (or maybe Information Systems)--Work would pay for the schooling as long as I made at least a B, and all of that would be well and good.  However, it would take me 5 or 6 years to complete the program, and it would take up a lot of time.
 
 
 I had been planning to back to school to get my masters degree in Computer Science (or maybe Information Systems)--Work would pay for the schooling as long as I made at least a B, and all of that would be well and good.  However, it would take me 5 or 6 years to complete the program, and it would take up a lot of time.

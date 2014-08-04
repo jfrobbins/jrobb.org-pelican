@@ -1,11 +1,9 @@
 Title: set up ssh  encrypted socks tunnel
 Date: 2010-07-19-21
-Modified: 2010-07-19-21
 Category: archive
 Tags: jbs, Encrypted_Socks_Tunnel, linux, arch, encrypted, linux, ssh, tether, tunnel <br>
-Slug: set-up-ssh--encrypted-socks-tunnel
+Slug: 2010-07-19-set-up-ssh--encrypted-socks-tunnel
 Authors: Jon Robbins
-Summary: So I had started this a long time ago, and forgotten all about it as I really didn't have a use for it.  Now that I have the ability to [tether](http://factorq.net/2010/07/14/tethering-on-the-moto-droid-with-easytether/" target="_blank), and I have my eeePC working again, combined with attending LUGs--now I have the use for a secure tunnel.
 
 
 So I had started this a long time ago, and forgotten all about it as I really didn't have a use for it.  Now that I have the ability to [tether](http://factorq.net/2010/07/14/tethering-on-the-moto-droid-with-easytether/" target="_blank), and I have my eeePC working again, combined with attending LUGs--now I have the use for a secure tunnel.

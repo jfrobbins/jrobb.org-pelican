@@ -1,11 +1,9 @@
 Title: Captcha and Tagger thing
 Date: 2011-01-08
-Modified: 2011-01-08
 Category: archive
 Tags: jbs, site, tags, captcha, blog
-Slug: captcha-and-tagger-thing
+Slug: 2011-01-08-captcha-and-tagger-thing
 Authors: Jon Robbins
-Summary: So I wanted to enable the commentation on my blog, but hl-- does not incorporate any spam control by default.  
 
 
 So I wanted to enable the commentation on my blog, but hl-- does not incorporate any spam control by default.  

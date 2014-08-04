@@ -1,11 +1,9 @@
 Title: Just a few interesting points
 Date: 2010-02-25-07
-Modified: 2010-02-25-07
 Category: archive
 Tags: jbs, e2010-02-24T20_31_15txt, e2010-02-24T20_31_15txta, linux, backups, google, linux <br>
-Slug: just-a-few-interesting-points
+Slug: 2010-02-25-just-a-few-interesting-points
 Authors: Jon Robbins
-Summary: I'm glad I am not the only one that feels this way about Google:
 
 
 I'm glad I am not the only one that feels this way about Google:

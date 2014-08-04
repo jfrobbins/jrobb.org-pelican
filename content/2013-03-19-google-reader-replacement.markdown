@@ -1,11 +1,9 @@
 Title: Google Reader Replacement
 Date: 2013-03-19 08
-Modified: 2013-03-19 08
 Category: archive
 Tags: www, google
-Slug: google-reader-replacement
+Slug: 2013-03-19-google-reader-replacement
 Authors: Jon Robbins
-Summary: As was announced not too long ago, [Google Reader is going away](http://techcrunch.com/2013/03/17/focusing-on-the-google-reader-shutdown/), but luckily there [are many alternatives](http://lifehacker.com/5990881/five-best-google-reader-alternatives).
 
 
 As was announced not too long ago, [Google Reader is going away](http://techcrunch.com/2013/03/17/focusing-on-the-google-reader-shutdown/), but luckily there [are many alternatives](http://lifehacker.com/5990881/five-best-google-reader-alternatives).

@@ -1,11 +1,9 @@
 Title: Family and etc update
 Date: 2012-03-11 21
-Modified: 2012-03-11 21
 Category: archive
 Tags: family, jekyll
-Slug: family-and-etc-update
+Slug: 2012-03-11-family-and-etc-update
 Authors: Jon Robbins
-Summary: So I haven't really been on the computer much at home, so I don't think about posting and all that. Not that I really have much to post about, but here goes.
 
 
 So I haven't really been on the computer much at home, so I don't think about posting and all that. Not that I really have much to post about, but here goes.

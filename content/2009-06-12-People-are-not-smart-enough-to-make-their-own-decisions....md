@@ -1,11 +1,9 @@
 Title: People are not smart enough to make their own decisions...
 Date: 2009-06-12-11
-Modified: 2009-06-12-11
 Category: archive
 Tags: jbs, news
-Slug: people-are-not-smart-enough-to-make-their-own-decisions...
+Slug: 2009-06-12-people-are-not-smart-enough-to-make-their-own-decisions...
 Authors: Jon Robbins
-Summary: so the government has to do it for us.
 
 
 so the government has to do it for us.

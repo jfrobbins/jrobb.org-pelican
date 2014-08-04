@@ -1,11 +1,9 @@
 Title: Making Backups
 Date: 2010-02-22-07
-Modified: 2010-02-22-07
 Category: archive
 Tags: jbs, qa, first, incremental, linux, arch, backup, data, linux, raid, rdup, rsync <br>
-Slug: making-backups
+Slug: 2010-02-22-making-backups
 Authors: Jon Robbins
-Summary: Backups can be very important, no one wants to lose any of their data--<em>especially</em> if it has happened to you before.
 
 
 Backups can be very important, no one wants to lose any of their data--<em>especially</em> if it has happened to you before.

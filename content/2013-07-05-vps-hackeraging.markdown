@@ -1,11 +1,9 @@
 Title: VPS hackeraging
 Date: 2013-07-05 23
-Modified: 2013-07-05 23
 Category: archive
 Tags: vps server
-Slug: vps-hackeraging
+Slug: 2013-07-05-vps-hackeraging
 Authors: Jon Robbins
-Summary: About [3 weeks ago](https://microca.st/jrobb/note/SX5erVM3S9SXaSiYTF9yQA) my VPS was hacked and the culprit decided for some reason to wipe data from the VPS nodes.
 
 
 About [3 weeks ago](https://microca.st/jrobb/note/SX5erVM3S9SXaSiYTF9yQA) my VPS was hacked and the culprit decided for some reason to wipe data from the VPS nodes.

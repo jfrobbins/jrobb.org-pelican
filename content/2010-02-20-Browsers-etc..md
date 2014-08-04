@@ -1,11 +1,9 @@
 Title: Browsers etc.
 Date: 2010-02-20-07
-Modified: 2010-02-20-07
 Category: archive
 Tags: jbs, Random, browser, chrome, chromium, firefox, google, IE <br>
-Slug: browsers-etc.
+Slug: 2010-02-20-browsers-etc.
 Authors: Jon Robbins
-Summary: I had used[ firefox](http://www.mozilla.com/firefox/" target="_blank) for a long time, and then recently started using [chrome](http://www.google.com/chrome" target="_blank) / [chromium](http://code.google.com/chromium/" target="_blank).  It is nice in that it is faster, and load times are good.  however, it seems that it cannot properly render some sites (they are few, but they are important!). I guess I need to say that IE is just terrible (although it is the best one ever), but really isn't even an option in my opinion.
 
 
 I had used[ firefox](http://www.mozilla.com/firefox/" target="_blank) for a long time, and then recently started using [chrome](http://www.google.com/chrome" target="_blank) / [chromium](http://code.google.com/chromium/" target="_blank).  It is nice in that it is faster, and load times are good.  however, it seems that it cannot properly render some sites (they are few, but they are important!). I guess I need to say that IE is just terrible (although it is the best one ever), but really isn't even an option in my opinion.

@@ -1,11 +1,9 @@
 Title: Cash for Laptops.com is a Ripoff
 Date: 2012-07-04 21
-Modified: 2012-07-04 21
 Category: archive
 Tags: hardware, baddeal
-Slug: cash-for-laptops.com-is-a-ripoff
+Slug: 2012-07-04-cash-for-laptops.com-is-a-ripoff
 Authors: Jon Robbins
-Summary: I had a couple of laptops laying around that I was not really using-- Most of my computing these days is on my phone, tablet, or desktop.
 
 
 I had a couple of laptops laying around that I was not really using-- Most of my computing these days is on my phone, tablet, or desktop.

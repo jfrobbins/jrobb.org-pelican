@@ -1,11 +1,9 @@
-Title: More backups this time in the quotcloudquot
+Title: More backups this time in the "cloud"
 Date: 2010-12-04-07
-Modified: 2010-12-04-07
 Category: archive
 Tags: jbs, linux, backup, cloud, linux <br>
-Slug: more-backups-this-time-in-the-quotcloudquot
+Slug: 2010-12-04-more-backups-this-time-in-the-quotcloudquot
 Authors: Jon Robbins
-Summary: My wife was very concerned about the viability of our photos and things in the event of a house fire, or theft, or some other horrible event.  I have an existing backup solution in-home, which would suffice for a drive failure or anything like that.  What we have been lacking is an off-site backup, and after looking around at several options, I settled on <a title="JungleDisk" href="https://www.jungledisk.com/" target="_blank">JungleDisk</a>.  This service offers automated backups, directory syncing, and the ability to encrypt the disk and files.  AND it works with Linux!
 
 
 My wife was very concerned about the viability of our photos and things in the event of a house fire, or theft, or some other horrible event.  I have an existing backup solution in-home, which would suffice for a drive failure or anything like that.  What we have been lacking is an off-site backup, and after looking around at several options, I settled on <a title="JungleDisk" href="https://www.jungledisk.com/" target="_blank">JungleDisk</a>.  This service offers automated backups, directory syncing, and the ability to encrypt the disk and files.  AND it works with Linux!

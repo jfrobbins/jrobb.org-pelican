@@ -1,11 +1,9 @@
 Title: 2010 is coming to a close  Happy New Year
 Date: 2010-12-30-23
-Modified: 2010-12-30-23
 Category: archive
 Tags: jbs, life, life <br>
-Slug: 2010-is-coming-to-a-close--happy-new-year
+Slug: 2010-12-30-2010-is-coming-to-a-close--happy-new-year
 Authors: Jon Robbins
-Summary: 2010 has really flown by for me and our family.  As always, the year has been packed full of events--way too many to document fully, but I can sure try to sum upthe highlights here.
 
 
 2010 has really flown by for me and our family.  As always, the year has been packed full of events--way too many to document fully, but I can sure try to sum upthe highlights here.

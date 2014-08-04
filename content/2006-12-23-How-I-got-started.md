@@ -1,11 +1,9 @@
 Title: How I got started
 Date: 2006-12-23-15
-Modified: 2006-12-23-15
 Category: archive
 Tags: jbs, about
-Slug: how-i-got-started
+Slug: 2006-12-23-how-i-got-started
 Authors: Jon Robbins
-Summary: <h3>My introduction to the Internet</h3>
 
 
 <h3>My introduction to the Internet</h3>

@@ -1,11 +1,9 @@
 Title: Wrecked my bike yesterday
 Date: 2010-09-15-07
-Modified: 2010-09-15-07
 Category: archive
 Tags: jbs, life, accident, motorcycle <br>
-Slug: wrecked-my-bike-yesterday
+Slug: 2010-09-15-wrecked-my-bike-yesterday
 Authors: Jon Robbins
-Summary: [caption id="" align="alignleft" width="410" caption="I got up from the wreck, turned off the motor, checked my phone, tried to call my wife, and then took this picture"][<img class=" " title="bike wrecked" src="http://lh3.ggpht.com/_d4xnJM_h7n4/TJC4nEVqv8I/AAAAAAAAAL8/BZQzHMWE0zs/s410/IMG_20100914_120013.jpg" alt="I got up from the wreck, turned off the motor, checked my phone, tried to call my wife, and then took this picture" width="410" height="306" />](http://lh3.ggpht.com/_d4xnJM_h7n4/TJC4nEVqv8I/AAAAAAAAAL8/BZQzHMWE0zs/s640/IMG_20100914_120013.jpg)[/caption]
 
 
 [caption id="" align="alignleft" width="410" caption="I got up from the wreck, turned off the motor, checked my phone, tried to call my wife, and then took this picture"][<img class=" " title="bike wrecked" src="http://lh3.ggpht.com/_d4xnJM_h7n4/TJC4nEVqv8I/AAAAAAAAAL8/BZQzHMWE0zs/s410/IMG_20100914_120013.jpg" alt="I got up from the wreck, turned off the motor, checked my phone, tried to call my wife, and then took this picture" width="410" height="306" />](http://lh3.ggpht.com/_d4xnJM_h7n4/TJC4nEVqv8I/AAAAAAAAAL8/BZQzHMWE0zs/s640/IMG_20100914_120013.jpg)[/caption]

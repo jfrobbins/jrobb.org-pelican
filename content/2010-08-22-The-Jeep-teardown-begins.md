@@ -1,11 +1,9 @@
 Title: The Jeep teardown begins
 Date: 2010-08-22-07
-Modified: 2010-08-22-07
 Category: archive
 Tags: jbs, jeep, jeep, jeep-stuff, upgrades <br>
-Slug: the-jeep-teardown-begins
+Slug: 2010-08-22-the-jeep-teardown-begins
 Authors: Jon Robbins
-Summary: <img class="alignleft" style="display:block;margin-right:auto;margin-left:auto;" src="http://factorq.files.wordpress.com/2010/08/wpid-img_20100821_122403.jpg" alt="image" width="349" height="261" /> So, I have begun tearing apart my jeep--and it has begun it's long wait on jackstands.  Yesterday morning I jacked up the front and started by removing the front driveshaft, whatever brake lines and things were still connected, shocks, tie rod, etc.  Before I did all that, though, I did have the sense to go ahead and unbolt the passenger side hub and pop it out so I can easily remove the axleshaft later if I need to use it or remove the locker.
 
 
 <img class="alignleft" style="display:block;margin-right:auto;margin-left:auto;" src="http://factorq.files.wordpress.com/2010/08/wpid-img_20100821_122403.jpg" alt="image" width="349" height="261" /> So, I have begun tearing apart my jeep--and it has begun it's long wait on jackstands.  Yesterday morning I jacked up the front and started by removing the front driveshaft, whatever brake lines and things were still connected, shocks, tie rod, etc.  Before I did all that, though, I did have the sense to go ahead and unbolt the passenger side hub and pop it out so I can easily remove the axleshaft later if I need to use it or remove the locker.

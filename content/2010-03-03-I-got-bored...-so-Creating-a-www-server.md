@@ -1,11 +1,9 @@
 Title: I got bored... so Creating a www server
 Date: 2010-03-03-07
-Modified: 2010-03-03-07
 Category: archive
 Tags: jbs, linux, apache, ftp, http, linux, mysql, php, server, www <br>
-Slug: i-got-bored...-so-creating-a-www-server
+Slug: 2010-03-03-i-got-bored...-so-creating-a-www-server
 Authors: Jon Robbins
-Summary: Over the weekend I had some time and then decided to do something I had always wanted to do:  create an http server.  I was using my desktop, which runs [Arch](http://archlinux.org" target="_blank) of course,  and went through several of [these links](http://fqnet.proboards.com/index.cgi?board=nix&amp;action=display&amp;thread=56&amp;page=1" target="_blank) and set my desktop up with Apache, PHP, and MySQL.  Also, I installed vsftp as an FTP server.
 
 
 Over the weekend I had some time and then decided to do something I had always wanted to do:  create an http server.  I was using my desktop, which runs [Arch](http://archlinux.org" target="_blank) of course,  and went through several of [these links](http://fqnet.proboards.com/index.cgi?board=nix&amp;action=display&amp;thread=56&amp;page=1" target="_blank) and set my desktop up with Apache, PHP, and MySQL.  Also, I installed vsftp as an FTP server.

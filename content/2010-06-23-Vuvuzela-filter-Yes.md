@@ -1,11 +1,9 @@
 Title: Vuvuzela filter Yes
 Date: 2010-06-23-08
-Modified: 2010-06-23-08
 Category: archive
 Tags: jbs, news, linux
-Slug: vuvuzela-filter-yes
+Slug: 2010-06-23-vuvuzela-filter-yes
 Authors: Jon Robbins
-Summary: From[ DistroWatch Weekly](http://distrowatch.com/weekly.php?issue=20100621#news" target="_blank):
 
 
 From[ DistroWatch Weekly](http://distrowatch.com/weekly.php?issue=20100621#news" target="_blank):

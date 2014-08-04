@@ -1,11 +1,9 @@
 Title: 1 Ton Axle Rebuild  Front Dana 60 part 1 hubs
 Date: 2010-09-08-21
-Modified: 2010-09-08-21
 Category: archive
 Tags: jbs, jeep, 1-ton, d60, dana-60, jeep <br>
-Slug: 1-ton-axle-rebuild--front-dana-60-part-1-hubs
+Slug: 2010-09-08-1-ton-axle-rebuild--front-dana-60-part-1-hubs
 Authors: Jon Robbins
-Summary: <strong><em>...This is an ongoing work in progress...</em></strong>
 
 
 <strong><em>...This is an ongoing work in progress...</em></strong>

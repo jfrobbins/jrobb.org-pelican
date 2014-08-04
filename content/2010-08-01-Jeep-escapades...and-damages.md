@@ -1,11 +1,9 @@
 Title: Jeep escapades...and damages
 Date: 2010-08-01-13
-Modified: 2010-08-01-13
 Category: archive
 Tags: jbs, jeep
-Slug: jeep-escapades...and-damages
+Slug: 2010-08-01-jeep-escapades...and-damages
 Authors: Jon Robbins
-Summary: [caption id="attachment_385" align="alignright" width="300" caption="Broken axle and lower ball joint 2010.07.31"][<img class="size-medium wp-image-385" title="Broken axle and lower ball joint 2010.07.31" src="http://factorq.files.wordpress.com/2010/08/dsc09217_1.jpg?w=300" alt="Jeep Damage: broken axle and lower ball joint" width="300" height="225" />](http://factorq.files.wordpress.com/2010/08/dsc09217_1.jpg)[/caption]
 
 
 [caption id="attachment_385" align="alignright" width="300" caption="Broken axle and lower ball joint 2010.07.31"][<img class="size-medium wp-image-385" title="Broken axle and lower ball joint 2010.07.31" src="http://factorq.files.wordpress.com/2010/08/dsc09217_1.jpg?w=300" alt="Jeep Damage: broken axle and lower ball joint" width="300" height="225" />](http://factorq.files.wordpress.com/2010/08/dsc09217_1.jpg)[/caption]

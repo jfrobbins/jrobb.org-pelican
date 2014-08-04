@@ -1,11 +1,9 @@
 Title: Jekyll
 Date: 2012-06-23 21
-Modified: 2012-06-23 21
 Category: archive
 Tags: jekyll
-Slug: jekyll
+Slug: 2012-06-23-jekyll
 Authors: Jon Robbins
-Summary: I had found out about [Jekyll](https://github.com/mojombo/jekyll/wiki) a year or two ago, but for some reason I had never implemented it.
 
 
 I had found out about [Jekyll](https://github.com/mojombo/jekyll/wiki) a year or two ago, but for some reason I had never implemented it.

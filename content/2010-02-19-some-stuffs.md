@@ -1,11 +1,9 @@
 Title: some stuffs
 Date: 2010-02-19-07
-Modified: 2010-02-19-07
 Category: archive
 Tags: jbs, linux, bash, bsd, gpl, jolicloud, linux, windows <br>
-Slug: some-stuffs
+Slug: 2010-02-19-some-stuffs
 Authors: Jon Robbins
-Summary: [FreeBSD and the GPL](http://www.itpro.co.uk/620659/freebsd-and-the-gpl" target="_blank) -interesting article, although it gets a bit long.  I liked BSD when I tried it, however I was ust much more comfortable with Linux--if I had used and grown with BSD, I'm sure I could get comfortable with it, too.
 
 
 [FreeBSD and the GPL](http://www.itpro.co.uk/620659/freebsd-and-the-gpl" target="_blank) -interesting article, although it gets a bit long.  I liked BSD when I tried it, however I was ust much more comfortable with Linux--if I had used and grown with BSD, I'm sure I could get comfortable with it, too.

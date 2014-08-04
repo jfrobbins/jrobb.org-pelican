@@ -1,11 +1,9 @@
 Title: pseudo randomness   my PRNG
 Date: 2011-02-05
-Modified: 2011-02-05
 Category: archive
 Tags: jbs, random, PRNG, PHP
-Slug: pseudo-randomness---my-prng
+Slug: 2011-02-05-pseudo-randomness---my-prng
 Authors: Jon Robbins
-Summary: My wife [sells stuff on Etsy](http://www.etsy.com/people/NestofManyColors), and occasionally does some giveaway type things.
 
 
 My wife [sells stuff on Etsy](http://www.etsy.com/people/NestofManyColors), and occasionally does some giveaway type things.

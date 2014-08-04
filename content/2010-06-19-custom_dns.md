@@ -1,11 +1,9 @@
 Title: custom_dns
 Date: 2010-06-19-05
-Modified: 2010-06-19-05
 Category: archive
 Tags: jbs
-Slug: custom_dns
+Slug: 2010-06-19-custom_dns
 Authors: Jon Robbins
-Summary: MX 5 ALT1.ASPMX.L.GOOGLE.COM.
 
 
 MX 5 ALT1.ASPMX.L.GOOGLE.COM.

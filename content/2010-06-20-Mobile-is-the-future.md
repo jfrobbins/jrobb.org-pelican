@@ -1,11 +1,9 @@
 Title: Mobile is the future
 Date: 2010-06-20-12
-Modified: 2010-06-20-12
 Category: archive
 Tags: jbs, tech, linux, mobile, smartphones, tech <br>
-Slug: mobile-is-the-future
+Slug: 2010-06-20-mobile-is-the-future
 Authors: Jon Robbins
-Summary: As I was sitting here at home listening to the Linux adventure show podcast, I was just thinking about how mobilized everything is becoming.  The iPad is ridiculously popular, as are the android tablets and ipad clones.  Not to even mention the smartphone markets--  I'm even writing this post on my iPhone!
 
 
 As I was sitting here at home listening to the Linux adventure show podcast, I was just thinking about how mobilized everything is becoming.  The iPad is ridiculously popular, as are the android tablets and ipad clones.  Not to even mention the smartphone markets--  I'm even writing this post on my iPhone!

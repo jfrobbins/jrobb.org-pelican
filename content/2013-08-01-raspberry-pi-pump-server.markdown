@@ -1,11 +1,9 @@
 Title: Raspberry Pi Pump Server
 Date: 2013-08-01 23
-Modified: 2013-08-01 23
 Category: archive
 Tags: raspi, pump, raspberry, pi, pump.io
-Slug: raspberry-pi-pump-server
+Slug: 2013-08-01-raspberry-pi-pump-server
 Authors: Jon Robbins
-Summary: My favorite and most-used social network right now is [Pump.io](http://pump.io/), which is created by [e14n](https://github.com/e14n).
 
 
 My favorite and most-used social network right now is [Pump.io](http://pump.io/), which is created by [e14n](https://github.com/e14n).

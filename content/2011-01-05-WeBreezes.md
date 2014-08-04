@@ -1,11 +1,9 @@
 Title: WeBreezes
 Date: 2011-01-05
-Modified: 2011-01-05
 Category: archive
 Tags: jbs, linux, RedHat, webreezes, archnemesis
-Slug: webreezes
+Slug: 2011-01-05-webreezes
 Authors: Jon Robbins
-Summary: A long time ago I had a friend who called himself my "arch-nemesis."  Well, I suppose we were better friends in our younger days, but at some point along the way his weirdness kind of took over.
 
 
 A long time ago I had a friend who called himself my "arch-nemesis."  Well, I suppose we were better friends in our younger days, but at some point along the way his weirdness kind of took over.

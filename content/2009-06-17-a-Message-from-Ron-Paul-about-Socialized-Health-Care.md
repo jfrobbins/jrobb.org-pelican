@@ -1,11 +1,9 @@
 Title: a Message from Ron Paul about Socialized Health Care
 Date: 2009-06-17-01
-Modified: 2009-06-17-01
 Category: archive
 Tags: jbs, politico
-Slug: a-message-from-ron-paul-about-socialized-health-care
+Slug: 2009-06-17-a-message-from-ron-paul-about-socialized-health-care
 Authors: Jon Robbins
-Summary: Another email from the [C4L](http://www.campaignforliberty.com)
 
 
 Another email from the [C4L](http://www.campaignforliberty.com)

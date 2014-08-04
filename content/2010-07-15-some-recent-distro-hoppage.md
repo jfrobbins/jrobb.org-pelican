@@ -1,11 +1,9 @@
 Title: some recent distro hoppage
 Date: 2010-07-15-07
-Modified: 2010-07-15-07
 Category: archive
 Tags: jbs, distro, crunchbang, distro, distrohop, fedora, linux <br>
-Slug: some-recent-distro-hoppage
+Slug: 2010-07-15-some-recent-distro-hoppage
 Authors: Jon Robbins
-Summary: I did have [Jolicloud](http://www.jolicloud.com/" target="_blank) on my eeePC (900A), and it was fine for a while.  Actually, it was a pretty neat distro.  However when you try to install things using apt-get like a normal distro instead of through the "app cloud", some things stop working and it goes downhil.  This, combined with me itching to hop a couple of distros let me to switch.
 
 
 I did have [Jolicloud](http://www.jolicloud.com/" target="_blank) on my eeePC (900A), and it was fine for a while.  Actually, it was a pretty neat distro.  However when you try to install things using apt-get like a normal distro instead of through the "app cloud", some things stop working and it goes downhil.  This, combined with me itching to hop a couple of distros let me to switch.

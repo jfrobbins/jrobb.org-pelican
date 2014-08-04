@@ -1,11 +1,9 @@
 Title: Oldish computer hardware for FREEDOM
 Date: 2013-02-21 21
-Modified: 2013-02-21 21
 Category: archive
 Tags: hardware, charity, freedom
-Slug: oldish-computer-hardware-for-freedom
+Slug: 2013-02-21-oldish-computer-hardware-for-freedom
 Authors: Jon Robbins
-Summary: I've got quite a few computers and parts and things that I have acrued that I no longer need, and as such they are just taking up space.
 
 
 I've got quite a few computers and parts and things that I have acrued that I no longer need, and as such they are just taking up space.

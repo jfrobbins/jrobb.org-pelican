@@ -1,11 +1,9 @@
 Title: checking in
 Date: 2010-10-14-05
-Modified: 2010-10-14-05
 Category: archive
 Tags: jbs, jeep, anastasia, bike-repair, wheels <br>
-Slug: checking-in
+Slug: 2010-10-14-checking-in
 Authors: Jon Robbins
-Summary: Not too much has been going on lately.  Well...we had a kid! On October 2nd: our third, a girl named Anastasia.  So we have been busy with that.  I have done a little with the jeep...but not much: Mostly I am still just amassing parts still.  I am also trying to decide between running a 220v line in the house and getting a bigger welder, vs getting a generator vs getting a welder/generator combo.  decisions...
 
 
 Not too much has been going on lately.  Well...we had a kid! On October 2nd: our third, a girl named Anastasia.  So we have been busy with that.  I have done a little with the jeep...but not much: Mostly I am still just amassing parts still.  I am also trying to decide between running a 220v line in the house and getting a bigger welder, vs getting a generator vs getting a welder/generator combo.  decisions...

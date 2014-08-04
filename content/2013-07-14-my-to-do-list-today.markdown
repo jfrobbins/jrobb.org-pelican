@@ -1,11 +1,9 @@
 Title: my to do list today
 Date: 2013-07-14 09
-Modified: 2013-07-14 09
 Category: archive
 Tags: 
-Slug: my-to-do-list-today
+Slug: 2013-07-14-my-to-do-list-today
 Authors: Jon Robbins
-Summary: 1. add my pump.io account as a destination in [brdcst.it](http://brdcst.it)
 
 
 1. add my pump.io account as a destination in [brdcst.it](http://brdcst.it)

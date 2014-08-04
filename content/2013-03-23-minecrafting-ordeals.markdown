@@ -1,11 +1,9 @@
 Title: Minecrafting Ordeals
 Date: 2013-03-23 23
-Modified: 2013-03-23 23
 Category: archive
 Tags: minecraft
-Slug: minecrafting-ordeals
+Slug: 2013-03-23-minecrafting-ordeals
 Authors: Jon Robbins
-Summary: NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO.  Not again.
 
 
 

@@ -1,11 +1,9 @@
 Title: Broken axle and lower ball joint 2010.07.31
 Date: 2010-08-01-10
-Modified: 2010-08-01-10
 Category: archive
 Tags: jbs
-Slug: broken-axle-and-lower-ball-joint-2010.07.31
+Slug: 2010-08-01-broken-axle-and-lower-ball-joint-2010.07.31
 Authors: Jon Robbins
-Summary:  
 
 
 

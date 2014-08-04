@@ -1,11 +1,9 @@
 Title: New Years Eve
 Date: 2010-12-31
-Modified: 2010-12-31
 Category: archive
 Tags: jbs, life, life, life, factorq, newyear
-Slug: new-years-eve
+Slug: 2010-12-31-new-years-eve
 Authors: Jon Robbins
-Summary: As I mentioned in my [fq blog post](http://factorq.net/2010/12/30/2010-is-coming-to-a-close/), 2010 is 
 
 
 As I mentioned in my [fq blog post](http://factorq.net/2010/12/30/2010-is-coming-to-a-close/), 2010 is 

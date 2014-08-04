@@ -1,11 +1,9 @@
 Title: Update free servers aren039t worth it
 Date: 2010-06-18-06
-Modified: 2010-06-18-06
 Category: archive
 Tags: jbs, 039t, site
-Slug: update-free-servers-aren039t-worth-it
+Slug: 2010-06-18-update-free-servers-aren039t-worth-it
 Authors: Jon Robbins
-Summary: on the old site which I just transferred from (again), the MySQL db's are all jacked up and non-working,so I am back here to stay.
 
 
 on the old site which I just transferred from (again), the MySQL db's are all jacked up and non-working,so I am back here to stay.

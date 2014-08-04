@@ -1,11 +1,9 @@
 Title: Favorite Distros
 Date: 2010-06-30-21
-Modified: 2010-06-30-21
 Category: archive
 Tags: jbs
-Slug: favorite-distros
+Slug: 2010-06-30-favorite-distros
 Authors: Jon Robbins
-Summary: These are my favorite Linux distributions.  They are definitely subject to change!
 
 
 These are my favorite Linux distributions.  They are definitely subject to change!

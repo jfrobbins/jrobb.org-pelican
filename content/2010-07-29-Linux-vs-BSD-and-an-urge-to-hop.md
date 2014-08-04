@@ -1,11 +1,9 @@
 Title: Linux vs BSD and an urge to hop
 Date: 2010-07-29-21
-Modified: 2010-07-29-21
 Category: archive
 Tags: jbs, distro
-Slug: linux-vs-bsd-and-an-urge-to-hop
+Slug: 2010-07-29-linux-vs-bsd-and-an-urge-to-hop
 Authors: Jon Robbins
-Summary: So, my interest was peaked in BSD for some reason...I think maybe I saw a release ([GhostBSD](http://www.ghostbsd.org/" target="_blank) perhaps), and I realized that I don't really know much about it.  I have briefly used [PC-BSD](http://www.pcbsd.org/" target="_blank) (which is based on [FreeBSD](http://www.freebsd.org/" target="_blank)) before while I was distro-hopping, but I did not get very extensive use out of it.
 
 
 So, my interest was peaked in BSD for some reason...I think maybe I saw a release ([GhostBSD](http://www.ghostbsd.org/" target="_blank) perhaps), and I realized that I don't really know much about it.  I have briefly used [PC-BSD](http://www.pcbsd.org/" target="_blank) (which is based on [FreeBSD](http://www.freebsd.org/" target="_blank)) before while I was distro-hopping, but I did not get very extensive use out of it.

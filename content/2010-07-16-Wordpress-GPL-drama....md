@@ -1,11 +1,9 @@
 Title: Wordpress GPL drama...
 Date: 2010-07-16-22
-Modified: 2010-07-16-22
 Category: archive
 Tags: jbs, FOSS, drama, gpl, pearson, thesis, wordpress <br>
-Slug: wordpress-gpl-drama...
+Slug: 2010-07-16-wordpress-gpl-drama...
 Authors: Jon Robbins
-Summary: After an argument broke out on twitter between [wordpress](http://wordpress.org" target="_blank) co-founder Matt Mullenweg and Chris Pearson who created the popular wordpress theme [Thesis](http://www.pearsonified.com/themes" target="_blank), an interview was put in place by Mixergy to talk to both of these guys and get their views on the matter.
 
 
 After an argument broke out on twitter between [wordpress](http://wordpress.org" target="_blank) co-founder Matt Mullenweg and Chris Pearson who created the popular wordpress theme [Thesis](http://www.pearsonified.com/themes" target="_blank), an interview was put in place by Mixergy to talk to both of these guys and get their views on the matter.

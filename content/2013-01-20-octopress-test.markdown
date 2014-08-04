@@ -1,11 +1,9 @@
 Title: octopress test
 Date: 2013-01-20 16
-Modified: 2013-01-20 16
 Category: archive
 Tags: Jekyll, blog, test
-Slug: octopress-test
+Slug: 2013-01-20-octopress-test
 Authors: Jon Robbins
-Summary: testy test test test
 
 
 testy test test test

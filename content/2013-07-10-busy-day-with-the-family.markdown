@@ -1,11 +1,9 @@
 Title: busy day with the family
 Date: 2013-07-10 23
-Modified: 2013-07-10 23
 Category: archive
 Tags: 
-Slug: busy-day-with-the-family
+Slug: 2013-07-10-busy-day-with-the-family
 Authors: Jon Robbins
-Summary: Today was a very busy day with the family:  first thing this morning we left around 8:30am and went to a small zoo where we rode through on a horse drawn wagon. 
 
 
 Today was a very busy day with the family:  first thing this morning we left around 8:30am and went to a small zoo where we rode through on a horse drawn wagon. 

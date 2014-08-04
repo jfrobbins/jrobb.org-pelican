@@ -1,11 +1,9 @@
 Title: Backups a followup
 Date: 2010-07-07-21
-Modified: 2010-07-07-21
 Category: archive
 Tags: jbs, binbash, simple_home_backup_scriptsh, this, simple, run, linux
-Slug: backups-a-followup
+Slug: 2010-07-07-backups-a-followup
 Authors: Jon Robbins
-Summary: Sometime back I made [a post](http://factorq.net/2010/02/22/making-backups/) about how I backup my data.  A [recent thread](http://crunchbanglinux.org/forums/topic/8486/backup-crunchbang/) on the crunchbang forums brought this back to mind, so I figured I should probably document my update here as well.
 
 
 Sometime back I made [a post](http://factorq.net/2010/02/22/making-backups/) about how I backup my data.  A [recent thread](http://crunchbanglinux.org/forums/topic/8486/backup-crunchbang/) on the crunchbang forums brought this back to mind, so I figured I should probably document my update here as well.

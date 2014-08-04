@@ -1,11 +1,9 @@
 Title: RasPi Pump
 Date: 2013-12-07 08
-Modified: 2013-12-07 08
 Category: archive
 Tags: pi, pump.io
-Slug: raspi-pump
+Slug: 2013-12-07-raspi-pump
 Authors: Jon Robbins
-Summary: So I'd [written before](/2013/08/01/raspberry-pi-pump-server/) and even did an [HPR episode](http://hackerpublicradio.org/eps.php?id=1338) with [@nybill](http://sn.gunmonkeynet.net/index.php/nybill) about the Raspberry Pi that I was using as a [pump.io](http://pump.io) server.
 
 
 So I'd [written before](/2013/08/01/raspberry-pi-pump-server/) and even did an [HPR episode](http://hackerpublicradio.org/eps.php?id=1338) with [@nybill](http://sn.gunmonkeynet.net/index.php/nybill) about the Raspberry Pi that I was using as a [pump.io](http://pump.io) server.

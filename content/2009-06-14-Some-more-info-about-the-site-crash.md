@@ -1,11 +1,9 @@
 Title: Some more info about the site crash
 Date: 2009-06-14-11
-Modified: 2009-06-14-11
 Category: archive
 Tags: jbs, site
-Slug: some-more-info-about-the-site-crash
+Slug: 2009-06-14-some-more-info-about-the-site-crash
 Authors: Jon Robbins
-Summary: So, apparently there<b> is</b> a backup of the website.&nbsp; However the [(free) webhost](http://www.x10hosting.com/) has to re-create my account and set everything back up.
 
 
 So, apparently there<b> is</b> a backup of the website.&nbsp; However the [(free) webhost](http://www.x10hosting.com/) has to re-create my account and set everything back up.

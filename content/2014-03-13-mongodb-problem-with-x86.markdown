@@ -1,11 +1,9 @@
 Title: mongodb problem with x86
 Date: 2014-03-13 23
-Modified: 2014-03-13 23
 Category: archive
 Tags: pumpio
-Slug: mongodb-problem-with-x86
+Slug: 2014-03-13-mongodb-problem-with-x86
 Authors: Jon Robbins
-Summary: Very recently [Dr. Sekula](https://hub.polari.us/steve) had posted on pumpio that his mongodb pumpio backend needed to be upgraded because of a crash.
 
 
 Very recently [Dr. Sekula](https://hub.polari.us/steve) had posted on pumpio that his mongodb pumpio backend needed to be upgraded because of a crash.

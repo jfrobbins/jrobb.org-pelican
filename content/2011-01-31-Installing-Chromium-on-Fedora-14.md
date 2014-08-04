@@ -1,11 +1,9 @@
 Title: Installing Chromium on Fedora 14
 Date: 2011-01-31
-Modified: 2011-01-31
 Category: archive
 Tags: jbs, filename, chromium, chrome, firefox, fedora
-Slug: installing-chromium-on-fedora-14
+Slug: 2011-01-31-installing-chromium-on-fedora-14
 Authors: Jon Robbins
-Summary: This is very easy...actually I think it is too easy to even blog about... but anyway.
 
 
 This is very easy...actually I think it is too easy to even blog about... but anyway.

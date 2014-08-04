@@ -1,11 +1,9 @@
 Title: Gitting started
 Date: 2011-01-14
-Modified: 2011-01-14
 Category: archive
 Tags: jbs, Git
-Slug: gitting-started
+Slug: 2011-01-14-gitting-started
 Authors: Jon Robbins
-Summary: It is a bit embarassing for me to admit this, but I having been using Linux for 10ish years now, and I have never used [Git](http://git-scm.com/) until very recently.
 
 
 It is a bit embarassing for me to admit this, but I having been using Linux for 10ish years now, and I have never used [Git](http://git-scm.com/) until very recently.

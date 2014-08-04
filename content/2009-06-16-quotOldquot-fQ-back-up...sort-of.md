@@ -1,11 +1,9 @@
-Title: quotOldquot fQ back up...sort of
+Title: "Old" fQ back up...sort of
 Date: 2009-06-16-21
-Modified: 2009-06-16-21
 Category: archive
 Tags: jbs, site
-Slug: quotoldquot-fq-back-up...sort-of
+Slug: 2009-06-16-quotoldquot-fq-back-up...sort-of
 Authors: Jon Robbins
-Summary: I got my web host to get everything back together.  I set up the domains and whatnot and now it's back going again.  I say "old" because it is really not all that old.  Except for the "archive" part.
 
 
 I got my web host to get everything back together.  I set up the domains and whatnot and now it's back going again.  I say "old" because it is really not all that old.  Except for the "archive" part.
