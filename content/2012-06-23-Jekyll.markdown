@@ -1,5 +1,5 @@
 Title: Jekyll
-Date: 2012-06-23 21
+Date: 2012-06-23
 Category: archive
 Tags: jekyll
 Slug: 2012-06-23-jekyll

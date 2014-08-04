@@ -1,5 +1,5 @@
 Title: custom_dns
-Date: 2010-06-19-05
+Date: 2010-06-19
 Category: archive
 Tags: jbs
 Slug: 2010-06-19-custom_dns

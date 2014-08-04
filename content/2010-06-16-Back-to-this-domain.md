@@ -1,5 +1,5 @@
 Title: Back to this domain
-Date: 2010-06-16-05
+Date: 2010-06-16
 Category: archive
 Tags: jbs, site
 Slug: 2010-06-16-back-to-this-domain

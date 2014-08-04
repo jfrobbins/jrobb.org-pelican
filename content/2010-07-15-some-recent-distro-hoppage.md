@@ -1,5 +1,5 @@
 Title: some recent distro hoppage
-Date: 2010-07-15-07
+Date: 2010-07-15
 Category: archive
 Tags: jbs, distro, crunchbang, distro, distrohop, fedora, linux <br>
 Slug: 2010-07-15-some-recent-distro-hoppage

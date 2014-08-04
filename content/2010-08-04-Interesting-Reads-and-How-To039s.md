@@ -1,5 +1,5 @@
 Title: Interesting Reads and How To039s
-Date: 2010-08-04-06
+Date: 2010-08-04
 Category: archive
 Tags: jbs, 039s
 Slug: 2010-08-04-interesting-reads-and-how-to039s

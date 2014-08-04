@@ -1,5 +1,5 @@
 Title: Minecrafting Ordeals
-Date: 2013-03-23 23
+Date: 2013-03-23
 Category: archive
 Tags: minecraft
 Slug: 2013-03-23-minecrafting-ordeals

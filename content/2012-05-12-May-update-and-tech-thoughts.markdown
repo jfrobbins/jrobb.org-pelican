@@ -1,5 +1,5 @@
 Title: May update and some tech thoughts
-Date: 2012-05-12 21
+Date: 2012-05-12
 Category: archive
 Tags: family, gong
 Slug: 2012-05-12-may-update-and-some-tech-thoughts

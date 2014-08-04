@@ -1,5 +1,5 @@
 Title: Linux vs BSD and an urge to hop
-Date: 2010-07-29-21
+Date: 2010-07-29
 Category: archive
 Tags: jbs, distro
 Slug: 2010-07-29-linux-vs-bsd-and-an-urge-to-hop

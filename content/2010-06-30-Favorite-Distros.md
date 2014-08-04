@@ -1,5 +1,5 @@
 Title: Favorite Distros
-Date: 2010-06-30-21
+Date: 2010-06-30
 Category: archive
 Tags: jbs
 Slug: 2010-06-30-favorite-distros

@@ -1,5 +1,5 @@
 Title: RasPi Pump
-Date: 2013-12-07 08
+Date: 2013-12-07
 Category: archive
 Tags: pi, pump.io
 Slug: 2013-12-07-raspi-pump

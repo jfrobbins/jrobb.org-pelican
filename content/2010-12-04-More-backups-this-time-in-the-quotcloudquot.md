@@ -1,5 +1,5 @@
 Title: More backups this time in the "cloud"
-Date: 2010-12-04-07
+Date: 2010-12-04
 Category: archive
 Tags: jbs, linux, backup, cloud, linux <br>
 Slug: 2010-12-04-more-backups-this-time-in-the-quotcloudquot

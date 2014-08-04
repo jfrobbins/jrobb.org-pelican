@@ -1,5 +1,5 @@
 Title: Just a little test with a new toy
-Date: 2010-11-08-16
+Date: 2010-11-08
 Category: archive
 Tags: jbs, Random, .45-acp, ammo-test, m1911 <br>
 Slug: 2010-11-08-just-a-little-test-with-a-new-toy

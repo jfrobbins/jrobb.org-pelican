@@ -1,5 +1,5 @@
 Title: Family and etc update
-Date: 2012-03-11 21
+Date: 2012-03-11
 Category: archive
 Tags: family, jekyll
 Slug: 2012-03-11-family-and-etc-update

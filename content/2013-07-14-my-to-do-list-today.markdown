@@ -1,5 +1,5 @@
 Title: my to do list today
-Date: 2013-07-14 09
+Date: 2013-07-14
 Category: archive
 Tags: 
 Slug: 2013-07-14-my-to-do-list-today

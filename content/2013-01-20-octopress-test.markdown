@@ -1,5 +1,5 @@
 Title: octopress test
-Date: 2013-01-20 16
+Date: 2013-01-20
 Category: archive
 Tags: Jekyll, blog, test
 Slug: 2013-01-20-octopress-test

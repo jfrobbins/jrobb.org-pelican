@@ -1,5 +1,5 @@
 Title: goodbye, factorQ.net
-Date: 2012-05-28 21
+Date: 2012-05-28
 Category: archive
 Tags: factorq
 Slug: 2012-05-28-goodbye,-factorq.net

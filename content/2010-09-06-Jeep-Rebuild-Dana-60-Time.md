@@ -1,5 +1,5 @@
 Title: Jeep Rebuild Dana 60 Time
-Date: 2010-09-06-08
+Date: 2010-09-06
 Category: archive
 Tags: jbs, jeep, d60, jeep, yj <br>
 Slug: 2010-09-06-jeep-rebuild-dana-60-time

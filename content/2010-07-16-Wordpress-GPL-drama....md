@@ -1,5 +1,5 @@
 Title: Wordpress GPL drama...
-Date: 2010-07-16-22
+Date: 2010-07-16
 Category: archive
 Tags: jbs, FOSS, drama, gpl, pearson, thesis, wordpress <br>
 Slug: 2010-07-16-wordpress-gpl-drama...

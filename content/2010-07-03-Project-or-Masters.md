@@ -1,5 +1,5 @@
 Title: Project or Masters
-Date: 2010-07-03-06
+Date: 2010-07-03
 Category: archive
 Tags: jbs, code, foss, identica, linux <br>
 Slug: 2010-07-03-project-or-masters

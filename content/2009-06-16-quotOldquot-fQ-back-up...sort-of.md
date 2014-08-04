@@ -1,5 +1,5 @@
 Title: "Old" fQ back up...sort of
-Date: 2009-06-16-21
+Date: 2009-06-16
 Category: archive
 Tags: jbs, site
 Slug: 2009-06-16-quotoldquot-fq-back-up...sort-of

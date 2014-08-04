@@ -1,5 +1,5 @@
 Title: Hosting some more services
-Date: 2014-04-05 12
+Date: 2014-04-05
 Category: archive
 Tags: hosting,software,owncloud,mediagoblin,pumpio,xmpp
 Slug: 2014-04-05-hosting-some-more-services

@@ -1,5 +1,5 @@
 Title: Inside StatusNet
-Date: 2013-03-12 23
+Date: 2013-03-12
 Category: archive
 Tags: 
 Slug: 2013-03-12-inside-statusnet

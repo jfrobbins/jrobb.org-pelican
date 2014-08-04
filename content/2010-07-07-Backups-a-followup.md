@@ -1,5 +1,5 @@
 Title: Backups a followup
-Date: 2010-07-07-21
+Date: 2010-07-07
 Category: archive
 Tags: jbs, binbash, simple_home_backup_scriptsh, this, simple, run, linux
 Slug: 2010-07-07-backups-a-followup

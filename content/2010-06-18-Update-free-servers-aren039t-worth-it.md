@@ -1,5 +1,5 @@
 Title: Update free servers aren039t worth it
-Date: 2010-06-18-06
+Date: 2010-06-18
 Category: archive
 Tags: jbs, 039t, site
 Slug: 2010-06-18-update-free-servers-aren039t-worth-it

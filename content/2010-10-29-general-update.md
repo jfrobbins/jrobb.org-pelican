@@ -1,5 +1,5 @@
 Title: general update
-Date: 2010-10-29-09
+Date: 2010-10-29
 Category: archive
 Tags: jbs, jeep
 Slug: 2010-10-29-general-update

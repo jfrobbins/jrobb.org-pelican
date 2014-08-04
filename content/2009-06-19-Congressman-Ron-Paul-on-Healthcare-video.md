@@ -1,5 +1,5 @@
 Title: Congressman Ron Paul on Healthcare video
-Date: 2009-06-19-11
+Date: 2009-06-19
 Category: archive
 Tags: jbs, news
 Slug: 2009-06-19-congressman-ron-paul-on-healthcare-video

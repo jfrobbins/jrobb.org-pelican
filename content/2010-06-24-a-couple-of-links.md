@@ -1,5 +1,5 @@
 Title: a couple of links
-Date: 2010-06-24-06
+Date: 2010-06-24
 Category: archive
 Tags: jbs, tech
 Slug: 2010-06-24-a-couple-of-links

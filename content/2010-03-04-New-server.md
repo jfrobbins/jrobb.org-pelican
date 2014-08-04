@@ -1,5 +1,5 @@
 Title: New server
-Date: 2010-03-04-22
+Date: 2010-03-04
 Category: archive
 Tags: jbs, site
 Slug: 2010-03-04-new-server

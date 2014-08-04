@@ -1,5 +1,5 @@
 Title: Oldish computer hardware for FREEDOM
-Date: 2013-02-21 21
+Date: 2013-02-21
 Category: archive
 Tags: hardware, charity, freedom
 Slug: 2013-02-21-oldish-computer-hardware-for-freedom

@@ -1,5 +1,5 @@
 Title: I dislike Cheney and apparently the CIA director questions him too
-Date: 2009-06-16-11
+Date: 2009-06-16
 Category: archive
 Tags: jbs, politico
 Slug: 2009-06-16-i-dislike-cheney-and-apparently-the-cia-director-questions-him-too

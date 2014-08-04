@@ -1,5 +1,5 @@
 Title: Some more info about the site crash
-Date: 2009-06-14-11
+Date: 2009-06-14
 Category: archive
 Tags: jbs, site
 Slug: 2009-06-14-some-more-info-about-the-site-crash

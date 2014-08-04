@@ -1,5 +1,5 @@
 Title: Mobile is the future
-Date: 2010-06-20-12
+Date: 2010-06-20
 Category: archive
 Tags: jbs, tech, linux, mobile, smartphones, tech <br>
 Slug: 2010-06-20-mobile-is-the-future

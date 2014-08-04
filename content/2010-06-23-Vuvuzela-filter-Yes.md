@@ -1,5 +1,5 @@
 Title: Vuvuzela filter Yes
-Date: 2010-06-23-08
+Date: 2010-06-23
 Category: archive
 Tags: jbs, news, linux
 Slug: 2010-06-23-vuvuzela-filter-yes

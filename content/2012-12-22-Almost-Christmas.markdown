@@ -1,5 +1,5 @@
 Title: Almost Christmas
-Date: 2012-12-22 21
+Date: 2012-12-22
 Category: archive
 Tags: christmas, teotwawki
 Slug: 2012-12-22-almost-christmas

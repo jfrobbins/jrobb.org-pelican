@@ -1,5 +1,5 @@
 Title: Raspberry Pi Pump Server
-Date: 2013-08-01 23
+Date: 2013-08-01
 Category: archive
 Tags: raspi, pump, raspberry, pi, pump.io
 Slug: 2013-08-01-raspberry-pi-pump-server

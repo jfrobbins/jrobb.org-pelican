@@ -1,5 +1,5 @@
 Title: Since July
-Date: 2012-09-15 21
+Date: 2012-09-15
 Category: archive
 Tags: statusnet, beablebone
 Slug: 2012-09-15-since-july

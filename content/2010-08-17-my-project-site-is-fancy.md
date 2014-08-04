@@ -1,5 +1,5 @@
 Title: my project site is fancy
-Date: 2010-08-17-21
+Date: 2010-08-17
 Category: archive
 Tags: jbs, code, blog, development, lightweight, software <br>
 Slug: 2010-08-17-my-project-site-is-fancy

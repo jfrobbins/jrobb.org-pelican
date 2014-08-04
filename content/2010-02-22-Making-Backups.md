@@ -1,5 +1,5 @@
 Title: Making Backups
-Date: 2010-02-22-07
+Date: 2010-02-22
 Category: archive
 Tags: jbs, qa, first, incremental, linux, arch, backup, data, linux, raid, rdup, rsync <br>
 Slug: 2010-02-22-making-backups

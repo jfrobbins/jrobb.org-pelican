@@ -1,5 +1,5 @@
 Title: Jeep escapades...and damages
-Date: 2010-08-01-13
+Date: 2010-08-01
 Category: archive
 Tags: jbs, jeep
 Slug: 2010-08-01-jeep-escapades...and-damages

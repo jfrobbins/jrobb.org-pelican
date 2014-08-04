@@ -1,5 +1,5 @@
 Title: error page
-Date: 2010-07-20-21
+Date: 2010-07-20
 Category: archive
 Tags: jbs
 Slug: 2010-07-20-error-page
