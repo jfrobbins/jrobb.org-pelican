@@ -3,7 +3,7 @@ Date: 2012-06-23
 Modified: 2012-06-23
 Category: archive
 Tags: jekyll
-Slug: 2012-06-23-jekyll
+Slug: jekyll
 Authors: Jon Robbins
 
 

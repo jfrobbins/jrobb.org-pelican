@@ -3,7 +3,7 @@ Date: 2010-06-23
 Modified: 2010-06-23
 Category: archive
 Tags: jbs, news, linux
-Slug: 2010-06-23-vuvuzela-filter-yes
+Slug: vuvuzela-filter-yes
 Authors: Jon Robbins
 
 

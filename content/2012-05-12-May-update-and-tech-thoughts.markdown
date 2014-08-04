@@ -3,7 +3,7 @@ Date: 2012-05-12
 Modified: 2012-05-12
 Category: archive
 Tags: family, gong
-Slug: 2012-05-12-may-update-and-some-tech-thoughts
+Slug: may-update-and-some-tech-thoughts
 Authors: Jon Robbins
 
 

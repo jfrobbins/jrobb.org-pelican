@@ -3,7 +3,7 @@ Date: 2011-02-05
 Modified: 2011-02-05
 Category: archive
 Tags: jbs, random, PRNG, PHP
-Slug: 2011-02-05-pseudo-randomness---my-prng
+Slug: pseudo-randomness---my-prng
 Authors: Jon Robbins
 
 

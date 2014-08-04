@@ -3,7 +3,7 @@ Date: 2011-01-13
 Modified: 2011-01-13
 Category: archive
 Tags: jbs, site, blog, code, captcha
-Slug: 2011-01-13-got-it-to-work...the-code-display-thing
+Slug: got-it-to-work...the-code-display-thing
 Authors: Jon Robbins
 
 

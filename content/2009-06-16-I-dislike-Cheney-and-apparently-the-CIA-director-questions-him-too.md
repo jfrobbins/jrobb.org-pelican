@@ -3,7 +3,7 @@ Date: 2009-06-16
 Modified: 2009-06-16
 Category: archive
 Tags: jbs, politico
-Slug: 2009-06-16-i-dislike-cheney-and-apparently-the-cia-director-questions-him-too
+Slug: i-dislike-cheney-and-apparently-the-cia-director-questions-him-too
 Authors: Jon Robbins
 
 

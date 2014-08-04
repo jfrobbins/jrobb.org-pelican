@@ -3,7 +3,7 @@ Date: 2012-07-04
 Modified: 2012-07-04
 Category: archive
 Tags: hardware, baddeal
-Slug: 2012-07-04-cash-for-laptops.com-is-a-ripoff
+Slug: cash-for-laptops.com-is-a-ripoff
 Authors: Jon Robbins
 
 

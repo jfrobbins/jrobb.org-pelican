@@ -3,7 +3,7 @@ Date: 2009-06-17
 Modified: 2009-06-17
 Category: archive
 Tags: jbs, politico
-Slug: 2009-06-17-a-message-from-ron-paul-about-socialized-health-care
+Slug: a-message-from-ron-paul-about-socialized-health-care
 Authors: Jon Robbins
 
 

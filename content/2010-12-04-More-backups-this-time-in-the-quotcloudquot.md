@@ -3,7 +3,7 @@ Date: 2010-12-04
 Modified: 2010-12-04
 Category: archive
 Tags: jbs, linux, backup, cloud, linux <br>
-Slug: 2010-12-04-more-backups-this-time-in-the-quotcloudquot
+Slug: more-backups-this-time-in-the-quotcloudquot
 Authors: Jon Robbins
 
 

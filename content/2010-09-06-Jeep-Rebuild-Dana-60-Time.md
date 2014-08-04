@@ -3,7 +3,7 @@ Date: 2010-09-06
 Modified: 2010-09-06
 Category: archive
 Tags: jbs, jeep, d60, jeep, yj <br>
-Slug: 2010-09-06-jeep-rebuild-dana-60-time
+Slug: jeep-rebuild-dana-60-time
 Authors: Jon Robbins
 
 

@@ -3,7 +3,7 @@ Date: 2012-05-28
 Modified: 2012-05-28
 Category: archive
 Tags: factorq
-Slug: 2012-05-28-goodbye,-factorq.net
+Slug: goodbye,-factorq.net
 Authors: Jon Robbins
 
 

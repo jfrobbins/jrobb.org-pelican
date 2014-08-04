@@ -3,7 +3,7 @@ Date: 2013-07-20
 Modified: 2013-07-20
 Category: archive
 Tags: 
-Slug: 2013-07-20-my-irssi-setup
+Slug: my-irssi-setup
 Authors: Jon Robbins
 
 

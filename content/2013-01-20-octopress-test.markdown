@@ -3,7 +3,7 @@ Date: 2013-01-20
 Modified: 2013-01-20
 Category: archive
 Tags: Jekyll, blog, test
-Slug: 2013-01-20-octopress-test
+Slug: octopress-test
 Authors: Jon Robbins
 
 

@@ -3,7 +3,7 @@ Date: 2012-03-11
 Modified: 2012-03-11
 Category: archive
 Tags: family, jekyll
-Slug: 2012-03-11-family-and-etc-update
+Slug: family-and-etc-update
 Authors: Jon Robbins
 
 

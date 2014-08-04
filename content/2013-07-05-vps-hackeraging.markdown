@@ -3,7 +3,7 @@ Date: 2013-07-05
 Modified: 2013-07-05
 Category: archive
 Tags: vps server
-Slug: 2013-07-05-vps-hackeraging
+Slug: vps-hackeraging
 Authors: Jon Robbins
 
 

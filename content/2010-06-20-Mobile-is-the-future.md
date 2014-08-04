@@ -3,7 +3,7 @@ Date: 2010-06-20
 Modified: 2010-06-20
 Category: archive
 Tags: jbs, tech, linux, mobile, smartphones, tech <br>
-Slug: 2010-06-20-mobile-is-the-future
+Slug: mobile-is-the-future
 Authors: Jon Robbins
 
 

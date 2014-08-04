@@ -3,7 +3,7 @@ Date: 2010-12-31
 Modified: 2010-12-31
 Category: archive
 Tags: jbs, life, life, life, factorq, newyear
-Slug: 2010-12-31-new-years-eve
+Slug: new-years-eve
 Authors: Jon Robbins
 
 

@@ -3,7 +3,7 @@ Date: 2010-11-08
 Modified: 2010-11-08
 Category: archive
 Tags: jbs, Random, .45-acp, ammo-test, m1911 <br>
-Slug: 2010-11-08-just-a-little-test-with-a-new-toy
+Slug: just-a-little-test-with-a-new-toy
 Authors: Jon Robbins
 
 

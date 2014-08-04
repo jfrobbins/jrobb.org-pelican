@@ -3,7 +3,7 @@ Date: 2010-07-19
 Modified: 2010-07-19
 Category: archive
 Tags: jbs, Encrypted_Socks_Tunnel, linux, arch, encrypted, linux, ssh, tether, tunnel <br>
-Slug: 2010-07-19-set-up-ssh--encrypted-socks-tunnel
+Slug: set-up-ssh--encrypted-socks-tunnel
 Authors: Jon Robbins
 
 

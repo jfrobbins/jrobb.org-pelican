@@ -3,7 +3,7 @@ Date: 2010-06-24
 Modified: 2010-06-24
 Category: archive
 Tags: jbs, tech
-Slug: 2010-06-24-a-couple-of-links
+Slug: a-couple-of-links
 Authors: Jon Robbins
 
 

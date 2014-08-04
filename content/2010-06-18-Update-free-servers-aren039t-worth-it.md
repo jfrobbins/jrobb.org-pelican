@@ -3,7 +3,7 @@ Date: 2010-06-18
 Modified: 2010-06-18
 Category: archive
 Tags: jbs, 039t, site
-Slug: 2010-06-18-update-free-servers-aren039t-worth-it
+Slug: update-free-servers-aren039t-worth-it
 Authors: Jon Robbins
 
 

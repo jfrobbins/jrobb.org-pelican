@@ -3,7 +3,7 @@ Date: 2011-02-13
 Modified: 2011-02-13
 Category: archive
 Tags: jbs, git, fossil, scm, version-control, work, code
-Slug: 2011-02-13-version-control-synopsis-git-vs-fossil
+Slug: version-control-synopsis-git-vs-fossil
 Authors: Jon Robbins
 
 

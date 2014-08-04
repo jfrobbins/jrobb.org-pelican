@@ -3,7 +3,7 @@ Date: 2009-06-14
 Modified: 2009-06-14
 Category: archive
 Tags: jbs, site
-Slug: 2009-06-14-some-more-info-about-the-site-crash
+Slug: some-more-info-about-the-site-crash
 Authors: Jon Robbins
 
 

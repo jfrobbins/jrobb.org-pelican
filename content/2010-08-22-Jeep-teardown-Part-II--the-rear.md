@@ -3,7 +3,7 @@ Date: 2010-08-22
 Modified: 2010-08-22
 Category: archive
 Tags: jbs, jeep, jeep, suspension <br>
-Slug: 2010-08-22-jeep-teardown-part-ii--the-rear
+Slug: jeep-teardown-part-ii--the-rear
 Authors: Jon Robbins
 
 

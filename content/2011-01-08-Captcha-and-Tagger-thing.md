@@ -3,7 +3,7 @@ Date: 2011-01-08
 Modified: 2011-01-08
 Category: archive
 Tags: jbs, site, tags, captcha, blog
-Slug: 2011-01-08-captcha-and-tagger-thing
+Slug: captcha-and-tagger-thing
 Authors: Jon Robbins
 
 

@@ -3,7 +3,7 @@ Date: 2010-07-12
 Modified: 2010-07-12
 Category: archive
 Tags: jbs, code
-Slug: 2010-07-12-thoughts-on-free-and-open-source-software-as-it-relates-to-me-right-now
+Slug: thoughts-on-free-and-open-source-software-as-it-relates-to-me-right-now
 Authors: Jon Robbins
 
 

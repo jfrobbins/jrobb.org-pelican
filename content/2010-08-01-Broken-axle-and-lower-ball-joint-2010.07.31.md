@@ -3,7 +3,7 @@ Date: 2010-08-01
 Modified: 2010-08-01
 Category: archive
 Tags: jbs
-Slug: 2010-08-01-broken-axle-and-lower-ball-joint-2010.07.31
+Slug: broken-axle-and-lower-ball-joint-2010.07.31
 Authors: Jon Robbins
 
 

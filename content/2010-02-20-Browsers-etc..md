@@ -3,7 +3,7 @@ Date: 2010-02-20
 Modified: 2010-02-20
 Category: archive
 Tags: jbs, Random, browser, chrome, chromium, firefox, google, IE <br>
-Slug: 2010-02-20-browsers-etc.
+Slug: browsers-etc.
 Authors: Jon Robbins
 
 

@@ -3,7 +3,7 @@ Date: 2010-08-17
 Modified: 2010-08-17
 Category: archive
 Tags: jbs, code, blog, development, lightweight, software <br>
-Slug: 2010-08-17-my-project-site-is-fancy
+Slug: my-project-site-is-fancy
 Authors: Jon Robbins
 
 

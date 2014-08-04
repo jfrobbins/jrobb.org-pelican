@@ -3,7 +3,7 @@ Date: 2009-06-19
 Modified: 2009-06-19
 Category: archive
 Tags: jbs, news
-Slug: 2009-06-19-congressman-ron-paul-on-healthcare-video
+Slug: congressman-ron-paul-on-healthcare-video
 Authors: Jon Robbins
 
 

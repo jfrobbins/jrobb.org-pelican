@@ -3,7 +3,7 @@ Date: 2013-07-10
 Modified: 2013-07-10
 Category: archive
 Tags: 
-Slug: 2013-07-10-busy-day-with-the-family
+Slug: busy-day-with-the-family
 Authors: Jon Robbins
 
 

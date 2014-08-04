@@ -3,7 +3,7 @@ Date: 2010-02-19
 Modified: 2010-02-19
 Category: archive
 Tags: jbs, linux, bash, bsd, gpl, jolicloud, linux, windows <br>
-Slug: 2010-02-19-some-stuffs
+Slug: some-stuffs
 Authors: Jon Robbins
 
 

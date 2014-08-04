@@ -3,7 +3,7 @@ Date: 2010-02-27
 Modified: 2010-02-27
 Category: archive
 Tags: jbs, 039leave, linux, browser, chromium, firefox, internet, linux <br>
-Slug: 2010-02-27-some-web-browser-wars-and-the-us-reneges-on-039leave-internet-alone039-policy
+Slug: some-web-browser-wars-and-the-us-reneges-on-039leave-internet-alone039-policy
 Authors: Jon Robbins
 
 

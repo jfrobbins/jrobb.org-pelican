@@ -3,7 +3,7 @@ Date: 2006-12-23
 Modified: 2006-12-23
 Category: archive
 Tags: jbs, about
-Slug: 2006-12-23-how-i-got-started
+Slug: how-i-got-started
 Authors: Jon Robbins
 
 

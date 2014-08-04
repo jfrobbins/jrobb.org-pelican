@@ -3,7 +3,7 @@ Date: 2010-07-03
 Modified: 2010-07-03
 Category: archive
 Tags: jbs, code, foss, identica, linux <br>
-Slug: 2010-07-03-project-or-masters
+Slug: project-or-masters
 Authors: Jon Robbins
 
 

@@ -3,7 +3,7 @@ Date: 2010-07-29
 Modified: 2010-07-29
 Category: archive
 Tags: jbs, distro
-Slug: 2010-07-29-linux-vs-bsd-and-an-urge-to-hop
+Slug: linux-vs-bsd-and-an-urge-to-hop
 Authors: Jon Robbins
 
 

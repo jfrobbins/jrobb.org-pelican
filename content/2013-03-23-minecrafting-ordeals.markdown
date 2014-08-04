@@ -3,7 +3,7 @@ Date: 2013-03-23
 Modified: 2013-03-23
 Category: archive
 Tags: minecraft
-Slug: 2013-03-23-minecrafting-ordeals
+Slug: minecrafting-ordeals
 Authors: Jon Robbins
 
 

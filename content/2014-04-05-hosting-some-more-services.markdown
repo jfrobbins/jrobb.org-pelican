@@ -3,7 +3,7 @@ Date: 2014-04-05
 Modified: 2014-04-05
 Category: archive
 Tags: hosting,software,owncloud,mediagoblin,pumpio,xmpp
-Slug: 2014-04-05-hosting-some-more-services
+Slug: hosting-some-more-services
 Authors: Jon Robbins
 
 
