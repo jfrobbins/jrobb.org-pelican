@@ -16,5 +16,15 @@ this spreads the network around and makes it function well even if some portions
 I'm not a very good speaker, especially when I am not familiar with the audience. And this was my second time visiting the LUG in 3 years or so.
 
 [Here is the presentation](http://pub.jrobb.org/triadlug/20140722_social_networking/20140722_social_networking.odp) that I used, and [here](http://pub.jrobb.org/triadlug/20140722_social_networking/20140722_social_networking_images.tgz) is a tgz of the diagram images I created (SVG and PNG).
+[link to images on MediaGoblin](https://media.jrobb.org/u/jrobb/collection/social-networks/)
 
-![centralized distributed and federated networks](http://pub.jrobb.org/triadlug/20140722_social_networking/20140722_social_networking_images/centralized_federated_distributed_networks.png)
+centralized network:
+<img src="http://pub.jrobb.org/triadlug/20140722_social_networking/20140722_social_networking_images/centralized_network.svg" width=50%>
+
+distributed network:
+<img src="http://pub.jrobb.org/triadlug/20140722_social_networking/20140722_social_networking_images/distributed_network.svg" width=50%>
+
+federated network:
+<img src="http://pub.jrobb.org/triadlug/20140722_social_networking/20140722_social_networking_images/federated_network.svg" width=50%>
+
+
