@@ -27,7 +27,7 @@ Summary: How to contact me
 
 ###email: :###
   I recommend you use [gpg](http://www.gnupg.org) to send email. <br>
-  [You can download an ASCII-armored version of the following public key:](/files/jrobb_gpg_pubkey.asc) <br>
+  [You can download an ASCII-armored version of the following public key:](http://pub.jrobb.org/jrobb_gpg_pubkey.asc) <br>
 
 - `pub   4096R/F69AB08C 2013-02-03`
 
