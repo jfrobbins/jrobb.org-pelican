@@ -1,11 +1,8 @@
 #! /usr/bin/env python3
 ###
-#  octopress2pelican.py
-#syntax is:
-#   ./octopress2pelican.py filename
-#   or
-#   ./octopress2pelican.py --dir /some/dirPath/
-###
+#creates a new content file for pelican
+#
+####
 
 import sys,os
 from datetime import datetime
@@ -73,12 +70,18 @@ class post(object):
         #hdr += "Summary: " + summaryText + '\n'
         
         return hdr
-
+    def printSyntax(self):
+        print("syntax is:")
+        print("./newpost.py title")
+        print(" or")
+        print("./newpost.py title category")
+        
     def newpost(self, args):
         self.getArgs(args)
         
         if not self.title:
             print("no title in args\n" + str(args))
+            self.printSyntax()
             return 0
             
         theNow = datetime.now()
@@ -102,16 +105,11 @@ class post(object):
         print("done")
 
 if __name__ == '__main__':
-    if len(sys.argv) > 1:
-        #syntax:
-        #   ./newpost.py "some title"
-        # also optional category:
-        #   ./newpost.py "some title" "category" 
-        mypost = post()
-        mypost.newpost(sys.argv[1:])
-        
-    else:
-        print("no args, nothing to do")
-
+    #syntax:
+    #   ./newpost.py "some title"
+    # also optional category:
+    #   ./newpost.py "some title" "category" 
+    mypost = post()
+    mypost.newpost(sys.argv[1:])
     
     
