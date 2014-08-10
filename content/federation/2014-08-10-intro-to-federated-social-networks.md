@@ -28,3 +28,6 @@ federated network:
 <img src="http://pub.jrobb.org/triadlug/20140722_social_networking/20140722_social_networking_images/federated_network.svg" width=50%>
 
 
+other info:
+- [getting started with pump.io](http://polari.us/dokuwiki/doku.php?id=gettingstartedwithpumpio)
+- [pump.io wiki](https://github.com/e14n/pump.io/wiki)
