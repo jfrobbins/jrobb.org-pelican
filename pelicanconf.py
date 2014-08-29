@@ -16,8 +16,11 @@ TIMEZONE = 'America/New_York'
 DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
+#FEED_ALL_ATOM = 'feeds/all.atom.xml'
+#FEED_ATOM = 'feeds/all.atom.xml' #FEED_ALL_ATOM
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
-FEED_ATOM = FEED_ALL_ATOM
+FEED_ALL_RSS = 'feeds/all.rss.xml'
+
 #FEED = 'feeds/all.atom.xml'
 FEED_DOMAIN = SITEURL
 TRANSLATION_FEED_ATOM = None
@@ -25,9 +28,9 @@ TRANSLATION_FEED_ATOM = None
 #AUTHOR_FEED_ATOM = 'feeds/%s.atom.xml'
 
 # Feeds 
-FEEDS =  (('All posts', 'feeds/all.atom.xml'),
-          ('Category', 'feeds/category'),
-         )
+#FEEDS =  (('All posts', 'feeds/all.atom.xml'),
+#          ('Category', 'feeds/category'),
+#         )
 
 # Blogroll
 LINKS = (('my GMG', 'https://media.jrobb.org/'),
