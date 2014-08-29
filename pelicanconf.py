@@ -36,6 +36,8 @@ TRANSLATION_FEED_ATOM = None
 LINKS = (('my GMG', 'https://media.jrobb.org/'),
          ('hastebin', 'http://bin.jrobb.org/'),
          ('pump.io', 'https://io.jrobb.org/'),
+         ('github', 'https://github.com/jfrobbins'),
+         ('gitorious', 'https://gitorious.org/~jrobb'),
         )
 
 # Social widget
