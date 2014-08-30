@@ -52,6 +52,8 @@ Just so you know where I'm coming from here.
 * [Mageia](http://www.mageia.org/)
     * [This](http://distrowatch.com/table.php?distribution=Mageia) is a fork of [Mandriva](http://distrowatch.com/table.php?distribution=mandriva) which I've never used. 
     * Maybe I did use Mandrake once a long time ago, but I don't remember much about it.
+* [Manjaro](http://manjaro.org/)
+    * [This](http://distrowatch.com/table.php?distribution=manjaro) one looks pretty promising, being Arch-based!
 * [Mepis](http://www.mepis.org/)
     * [Mepis](http://distrowatch.com/table.php?distribution=Mepis) looks ok, seems to be another Debian derivative using KDE.
 * [Tanglu](http://tanglu.org/)
@@ -63,7 +65,7 @@ Just so you know where I'm coming from here.
 * [Xubuntu](http://www.xubuntu.org/)
     * [This](http://distrowatch.com/table.php?distribution=xubuntu) one is a lightweight ubuntu.
 
-At this very preliminary stage, I'd say my main contenders that I am biased towards are Fedora, Arch, and Tanglu.  I'm also very fascinated by the Debian/kFreeBSD.
+At this very preliminary stage, I'd say my main contenders that I am biased towards are Fedora, Arch, Manjaro, and Tanglu.  I'm also very fascinated by the Debian/kFreeBSD.
 I'll plan to install and try each one (in some order) for 2 weeks each, doing my normal activities.
 I don't feel that I have a dificult list of needs to meet those daily activities which include:
 
