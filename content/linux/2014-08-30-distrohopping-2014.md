@@ -30,38 +30,38 @@ Just so you know where I'm coming from here.
 ## The List:
 
 * [Arch](https://www.archlinux.org/)
-** I've used [Arch](http://distrowatch.com/table.php?distribution=arch) in the past for a while, and had a pretty good run. There's lots that I like (/love?) about it.
-** What I _don't_ like about it is possible instability due to its 'bleeding edge' nature.
+    * I've used [Arch](http://distrowatch.com/table.php?distribution=arch) in the past for a while, and had a pretty good run. There's lots that I like (/love?) about it.
+    * What I _don't_ like about it is possible instability due to its 'bleeding edge' nature.
 * [Crunchbang](http://crunchbang.org/)
-** [This](http://distrowatch.com/table.php?distribution=crunchbang) is another I have used in the past. 
-** It is great, but my main complaint is the same that I have for Debian stable and CentOS -- packages seem to get outdated very quickly.
+    * [This](http://distrowatch.com/table.php?distribution=crunchbang) is another I have used in the past. 
+    * It is great, but my main complaint is the same that I have for Debian stable and CentOS -- packages seem to get outdated very quickly.
 * [Debian](http://www.debian.org/)
-** [Debian](http://distrowatch.com/table.php?distribution=debian) is like the golden standard for GNU/Linux.
-** As noted above, my only complaint is that over time the packages get stale.
+    * [Debian](http://distrowatch.com/table.php?distribution=debian) is like the golden standard for GNU/Linux.
+    * As noted above, my only complaint is that over time the packages get stale.
 * [ElementaryOS](http://elementaryos.org/)
-** I don't know much about [this one](http://distrowatch.com/table.php?distribution=elementary), but it is apparently an Ubuntu derivative
-** It also looks focused on being pretty, which isn't a bad thing. Looks quite nice, though I don't know if it is for me.
+    * I don't know much about [this one](http://distrowatch.com/table.php?distribution=elementary), but it is apparently an Ubuntu derivative
+    * It also looks focused on being pretty, which isn't a bad thing. Looks quite nice, though I don't know if it is for me.
 * [Fedora](https://fedoraproject.org/)
-** [Fedora](http://distrowatch.com/table.php?distribution=fedora) is obviously a good option since it is very similar to CentOS/RHEL and compatibility is great as a convenience.
-** Downsides, I can't really think of any. Heavily company guided? That's about all I have.
+    * [Fedora](http://distrowatch.com/table.php?distribution=fedora) is obviously a good option since it is very similar to CentOS/RHEL and compatibility is great as a convenience.
+    * Downsides, I can't really think of any. Heavily company guided? That's about all I have.
 * [kFreeBSD](https://www.debian.org/ports/kfreebsd-gnu/)
-** This one is a port of Debian proper that makes use of the [FreeBSD](http://www.freebsd.org/) kernel.
-** It looks to be still in development, but sounds interesting-- there is a "why" [on the wiki](https://wiki.debian.org/Debian_GNU/kFreeBSD_why)
+    * This one is a port of Debian proper that makes use of the [FreeBSD](http://www.freebsd.org/) kernel.
+    * It looks to be still in development, but sounds interesting-- there is a "why" [on the wiki](https://wiki.debian.org/Debian_GNU/kFreeBSD_why)
 * [KaOS](http://kaosx.us/)
-** [This](http://distrowatch.com/table.php?distribution=kaos) one sounds interesting, it is [Arch](https://archlinux.org)-based and is rolling-release.
+    * [This](http://distrowatch.com/table.php?distribution=kaos) one sounds interesting, it is [Arch](https://archlinux.org)-based and is rolling-release.
 * [Mageia](http://www.mageia.org/)
-** [This](http://distrowatch.com/table.php?distribution=Mageia) is a fork of [Mandriva](http://distrowatch.com/table.php?distribution=mandriva) which I've never used. 
-** Maybe I did use Mandrake once a long time ago, but I don't remember much about it.
+    * [This](http://distrowatch.com/table.php?distribution=Mageia) is a fork of [Mandriva](http://distrowatch.com/table.php?distribution=mandriva) which I've never used. 
+    * Maybe I did use Mandrake once a long time ago, but I don't remember much about it.
 * [Mepis](http://www.mepis.org/)
-** [Mepis](http://distrowatch.com/table.php?distribution=Mepis) looks ok, seems to be another Debian derivative using KDE.
+    * [Mepis](http://distrowatch.com/table.php?distribution=Mepis) looks ok, seems to be another Debian derivative using KDE.
 * [Tanglu](http://tanglu.org/)
-** [Tanglu](http://distrowatch.com/table.php?distribution=Tanglu) looks and sounds good, is also Debian based.
+    * [Tanglu](http://distrowatch.com/table.php?distribution=Tanglu) looks and sounds good, is also Debian based.
 * [Tiny Core linux](http://www.tinycorelinux.net/)
-** I don't see [this](http://distrowatch.com/table.php?distribution=tinycore) being a daily driver distro. I'll leave it here because it is useful, but I'm not going to seriously consider it.
+    * I don't see [this](http://distrowatch.com/table.php?distribution=tinycore) being a daily driver distro. I'll leave it here because it is useful, but I'm not going to seriously consider it.
 * [Trisquel](http://trisquel.info/)
-** [Trisquel](http://distrowatch.com/table.php?distribution=trisquel) is an Ubuntu-based freedom-focused distro.
+    * [Trisquel](http://distrowatch.com/table.php?distribution=trisquel) is an Ubuntu-based freedom-focused distro.
 * [Xubuntu](http://www.xubuntu.org/)
-** [This](http://distrowatch.com/table.php?distribution=xubuntu) one is a lightweight ubuntu.
+    * [This](http://distrowatch.com/table.php?distribution=xubuntu) one is a lightweight ubuntu.
 
 At this very preliminary stage, I'd say my main contenders that I am biased towards are Fedora, Arch, and Tanglu.  I'm also very fascinated by the Debian/kFreeBSD.
 I'll plan to install and try each one (in some order) for 2 weeks each, doing my normal activities.
@@ -72,3 +72,5 @@ I don't feel that I have a dificult list of needs to meet those daily activities
 * using [heybuddy](https://launchpad.net/heybuddy) to interact with GNU Social
 * using Geany to do some code things (typically in python) and write text documents (like this blogpost)
 * Email, most importantly of the GPG encrypted variety
+
+OK, let's get started.
