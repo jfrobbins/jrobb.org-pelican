@@ -3,7 +3,7 @@ Date: 2014-08-30
 Modified: 2014-08-30
 Category: linux
 Tags: linux, distrohop
-Slug: distrohopping-again
+Slug: distrohopping-2014
 Authors: Jon Robbins
 
 There are so many good [distributions](http://distrowatch.com/dwres.php?resource=major), it is hard to settle on just one.
