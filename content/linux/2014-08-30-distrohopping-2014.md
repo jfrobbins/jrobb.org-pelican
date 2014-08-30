@@ -16,7 +16,7 @@ I've been using LM for quite some time now (Debian Edition on 2 PCs, LM17 on 2 P
 One of my LMDE PCs is a machine that I use at work to host Windows VMs for development, even though RHEL is the preferred deployment there. 
 
 I am going to convert that work machine over to CentOS soon to be more company-compliant, and that got me started thinking that it'd be nice to play around with some more distros at home again.
-I asked on [GNU Social]() and [Pump.io]() for suggestions on distros to try, and got quite a few responses. 
+I asked on [GNU Social](http://quitter.se/notice/2776190) and [Pump.io](https://io.jrobb.org/jrobb/note/svCSDr9QRGen0x6kcMmysw) for suggestions on distros to try, and got quite a few responses. 
 I've condensed and edited the list, and will put a blurb for each here, plus my initial thoughts.
 
 ## On Free Software
