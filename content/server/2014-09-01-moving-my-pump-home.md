@@ -237,26 +237,64 @@ It would not be possible to transfer a host without the same secret key and db (
 For those interested, here's the script I run in a cronjob once or twice a week:
 
 	#!/bin/bash
+	#~/scripts/vpsbackup-daily-root.sh
 	
 	DATE=$(date +"%Y%m%d")
-	BAKDIR='/home/jon/backups'
-	TMPDIR=$BAKDIR/$DATE
+	BAKDIR='/my/backups/dir'
+	TMPDIR=$BAKDIR/DAILY
+	TARFLAGS='czvf'
+	EXT='tgz'
+	#TARFLAGS='cJvf'
+	#EXT='tar.xz'
+
+	BIGEXT='tgz' #total wrapper
+	FNAME='daily'
+	PREVIOUS='previous'
+
+	#if ! (($(date +"%d") % 2)); then
+	#	FNAME="daily"
+	#else
+	#	FNAME="daily"
+	#fi
+
+
+	#stop the pump to not interfere with backups
+	cd /srv/pump.io
+	forever stopall &
+	wait
 
 	mkdir $TMPDIR
 	cd $TMPDIR
 
+	touch $DATE.date
+
 	#copy come config file backups:
 	cp /etc/nginx/sites-available/default ./etc-nginx-sites-available-default
-	cp -r /etc/nginx/conf.d ./nginx-conf.d
+	cp -r /etc/nginx/conf.d ./
 	cp /etc/pump.io.json ./etc-pump.io.json
 	cp /home/jon/scripts ./
 
 	#targzip whole dirs:
-	tar -czvf $DATE-srv.tgz /srv/* --exclude=/srv/minecraft/map/*
-	tar -czvf $DATE-varlib-mongo.tgz /var/lib/mongodb/*
-	tar -czvf $DATE-home-scripts.tgz /home/jon/scripts
+	tar -$TARFLAGS $DATE-srv.$EXT /srv/* --exclude=/srv/minecraft/map/*
+	tar -$TARFLAGS $DATE-varlib-mongo.$EXT /var/lib/mongodb/*
+	tar -$TARFLAGS $DATE-home-scripts.$EXT /home/jon/scripts
 
-	#tarball it all up into one big tarball:
+	#tarball it all up:
 	cd ..
-	tar -czvf $DATE.tgz $TMPDIR
+
+	#save the previous file (keep 2 backups)
+	mv $FNAME.$BIGEXT $PREVIOUS.$BIGEXT
+
+	tar -czvf $FNAME.$BIGEXT $TMPDIR
 	rm -rf $TMPDIR
+
+	chown jon:jon $FNAME.tgz
+
+	#start the pump back up
+	cd /srv/pump.io
+	echo '' > /srv/pump.io/logs/pump.log   #clear the log
+
+
+	forever start -al /srv/pump.io/logs/pump.log /srv/pump.io/bin/pump
+
+
