@@ -33,8 +33,8 @@ Here are the versions of things that I'm currently using:
 
 ## db
 
-jpope uses redis db and seems ok with it, however I've used it before and [ran into some problems]({filename}/2013-12-07-raspi-pump-the-end.md) as redis keeps the entire db in memory.
-  Not that mongodb is flawless, there's also a [problem with 32-bit]({filename}/2014-03-13-mongodb-problem-with-x86.md), but that is easily solved.
+jpope uses redis db and seems ok with it, however I've used it before and [ran into some problems]({filename}/2013-12-07-raspi-pump-the-end.markdown) as redis keeps the entire db in memory.
+  Not that mongodb is flawless, there's also a [problem with 32-bit]({filename}/2014-03-13-mongodb-problem-with-x86.markdown), but that is easily solved.
   So, I installed mongodb from the repos and left it at its defaults.
   
 ## pumpio
