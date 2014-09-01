@@ -22,7 +22,7 @@ DEFAULT_LANG = u'en'
 #FEED_ALL_RSS = 'feeds/all.rss.xml'
 
 FEED_RSS = 'feeds/all.rss.xml'
-FEED = 'feeds/all.atom.xml'
+FEED_ATOM = 'feeds/all.atom.xml'
 FEED_DOMAIN = SITEURL
 TRANSLATION_FEED_ATOM = None
 #CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
