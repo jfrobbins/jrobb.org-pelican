@@ -3,7 +3,7 @@ Date: 2014-09-01
 Modified: 2014-09-01
 Category: server
 Tags: server, pumpio
-Slug: moving-home
+Slug: moving-my-pump-home
 Authors: Jon Robbins
 
 I was suspended from my vps again sometime yesterday due to going over my 3TB montly bandwidth limit 
@@ -33,8 +33,8 @@ Here are the versions of things that I'm currently using:
 
 ## db
 
-jpope uses redis db and seems ok with it, however I've used it before and [ran into some problems]({filename}/content/raspi-pump.html) as redis keeps the entire db in memory.
-  Not that mongodb is flawless, there's also a [problem with 32-bit]({filename}/content/mongodb-problem-with-x86.html), but that is easily solved.
+jpope uses redis db and seems ok with it, however I've used it before and [ran into some problems]({filename}/2013-12-07-raspi-pump-the-end.md) as redis keeps the entire db in memory.
+  Not that mongodb is flawless, there's also a [problem with 32-bit]({filename}/2014-03-13-mongodb-problem-with-x86.md), but that is easily solved.
   So, I installed mongodb from the repos and left it at its defaults.
   
 ## pumpio
