@@ -33,8 +33,8 @@ Here are the versions of things that I'm currently using:
 
 ## db
 
-jpope uses redis db and seems ok with it, however I've used it before and [ran into some problems]({filename}/raspi-pump.html) as redis keeps the entire db in memory.
-  Not that mongodb is flawless, there's also a [problem with 32-bit]({filename}/mongodb-problem-with-x86.html), but that is easily solved.
+jpope uses redis db and seems ok with it, however I've used it before and [ran into some problems]({filename}/content/raspi-pump.html) as redis keeps the entire db in memory.
+  Not that mongodb is flawless, there's also a [problem with 32-bit]({filename}/content/mongodb-problem-with-x86.html), but that is easily solved.
   So, I installed mongodb from the repos and left it at its defaults.
   
 ## pumpio
@@ -76,18 +76,22 @@ bunyan makes the log files look pretty.
 	}
 
 looks like jpope added his user like this:
+
     # useradd -s /bin/bash -d /srv/http/pump.jpope.org
+    
 whereas I did this:
+
     # useradd -M pumpio
+    
 then chowned my /srv/pump.io dir to that 'pump.io user.
 
 his way might be better.
 
 I start my pump by running this simple bash script so I don't have to remember the syntax:
     
-    #!/bin/bash
-	#/srv/pump.io/startpump.sh
-	sudo forever start -al /srv/pump.io/logs/pump.log /srv/pump.io/bin/pump
+     #!/bin/bash
+	 #/srv/pump.io/startpump.sh
+	 sudo forever start -al /srv/pump.io/logs/pump.log /srv/pump.io/bin/pump
 	
 To stop the pump, simply:
 
