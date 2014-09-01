@@ -17,9 +17,10 @@ Since pump.io is intended to be run in a standalone type fashion bound directly 
  (web, etc), I had to setup my pump server behind a proxy.
  
 I'm using [nginx](http://nginx.com/), which is awesome.  
-And luckily [sazius](http://www.sjoberg.fi/blog/pumpio.html) and [jpope](http://whird.jpope.org/pump/) have done the whole proxy setup thing before.
+And luckily [sazius](http://www.sjoberg.fi/blog/pumpio.html) and [jpope](http://whird.jpope.org/pump/) have done the whole proxy setup thing before so this is old hat.
 
 I wanted to document what I did so that I remember if I have to do this again. Plus this is an easy way to view my configs.
+Here's a [link](http://nginx.com/blog/websocket-nginx/) or [two](http://nginx.org/en/docs/http/websocket.html) about websocket proxying.
 
 ## setup
 
