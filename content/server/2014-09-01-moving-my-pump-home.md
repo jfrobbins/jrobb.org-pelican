@@ -6,7 +6,7 @@ Tags: server, pumpio
 Slug: moving-my-pump-home
 Authors: Jon Robbins
 
-I was suspended from my vps again sometime yesterday due to going over my 3TB montly bandwidth limit 
+I was suspended from my vps again sometime yesterday due to going over my 3TB monthly bandwidth limit 
 -- I was seeding many linux distributions, and with the fat pipes on the vps it just happened. 
 I'll have to be more careful in the future.
 
